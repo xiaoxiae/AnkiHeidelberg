@@ -1,0 +1,660 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "cf2367d6-b03e-11ed-b9af-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "GPU Computing",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "cef4c958-b03e-11ed-b9af-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-064342f4945fbd620a10e41ce045643661fa5468.jpg",
+                "paste-0fbb065dc8f28bb49eacaf483300488449aea620.jpg",
+                "paste-10bb40f688c3a710dffbdc5558053c3e5571546b.jpg",
+                "paste-1b658bb6fb4be0bdf3f388854b8c7f3181f384e6.jpg",
+                "paste-1ce005f20343901227068a587ddf3c98fa4292ba.jpg",
+                "paste-1f2037a437c0e636afe85f72ea760b3ad2a4bc3a.jpg",
+                "paste-2737cddf49375b76e45b44b81ca3f16d6db21b82.jpg",
+                "paste-3045e570ea8bdce9b01a96abbba018da5f03a980.jpg",
+                "paste-35e2dba5eea16b0812863be83a63f8cb7b204cb2.jpg",
+                "paste-416ef35dd46c3bd4846177eeb06d681abe1cdc4d.jpg",
+                "paste-450142d0a4fd7f6d4a3bf0749528e2ae45e02aa5.jpg",
+                "paste-4ca9a1c136c2262f74420750f6fc5b222833b3c0.jpg",
+                "paste-4f9afdd330b31958b080418546ea43317e7c2611.jpg",
+                "paste-54586cac0fc8a2443120f252e2e5c1e37760989c.jpg",
+                "paste-54be41e6fdaac50588f74f9b0ef5da5cb7669ab8.jpg",
+                "paste-54da0d032623c01ac3082adf8cf689909f20b101.jpg",
+                "paste-55005826695503f61db28c0040b4839ea1eaf913.jpg",
+                "paste-5f13582fb9e2388ed80d53d5bb1b1259578c978a.jpg",
+                "paste-6a628f3594b01ac68b08f0246ab24e9f9dfe3bf8.jpg",
+                "paste-6a8e7cc038f601c827a3747a0f77ec5335354bf1.jpg",
+                "paste-6c0b8d97a7a7461e24970c325c56b1e83c95f064.jpg",
+                "paste-77d2f2e9bbd82ac080ac34ff7fdff9ee95166c6f.jpg",
+                "paste-7d5f93e6c9bc81dd6154f774b208750b91120f91.jpg",
+                "paste-7d962d609885220aa4bda30d2f7f050195cb21dd.jpg",
+                "paste-7faabed879de38a777eb964aff1e43e42d39f1f0.jpg",
+                "paste-86233755ab6c89ba80b902719696ae58ac739e4e.jpg",
+                "paste-8af0f155686b49e51cfa81d7b1d490d923b85ab3.jpg",
+                "paste-8b2cb104f4c1911138ed7de9066126e8f8592364.jpg",
+                "paste-905347aa7a094f1a0785453f53be78494acaf8d3.jpg",
+                "paste-9abf1f320f352d1b5db074478061d5fe263ba338.jpg",
+                "paste-9c1f507c5a53e7927e479d9ac39739b82e8ade95.jpg",
+                "paste-a063ad69cbc92316c4af32c729b4702f79767e8f.jpg",
+                "paste-ab2790d664ba31701ea49cd6ad3d2e13d2b7070f.jpg",
+                "paste-af5af4c344465555bcf2c458f7324266fcfdd493.jpg",
+                "paste-b296ef35a43a2c71fe457a876a09dfb242a4a3f6.jpg",
+                "paste-bb4db797b2befc4c153a2834146c552327e433f5.jpg",
+                "paste-c57f38ba5b066571a8bbc9f0aa4d542d1380e57e.jpg",
+                "paste-c7084092694a5c256fc86f7b279c4cfe636925c2.jpg",
+                "paste-cbab8d253c18b1896de26a2ea449df4e4886ccd9.jpg",
+                "paste-d86d54ff9c68ec5f0c3809097c6525dd73905f74.jpg",
+                "paste-d9618d1c4654f3af21574e943a52b39795719760.jpg",
+                "paste-e1c27cfd714a48f73bd23f2517d980c33cc4dbac.jpg",
+                "paste-e2d14d3322a80331c44672974c6806754cbb9e97.jpg",
+                "paste-e30678a6bf1ecd29399fc1d17be451e36cc669c4.jpg",
+                "paste-e71ea27e824efd3557a2f93064cf1ad748c9fc28.jpg",
+                "paste-f0818257e667fad422b96b1a24f127988e3b9193.jpg",
+                "paste-f099ddd53da7eac35b986909d1c06d3329070cf6.jpg",
+                "paste-f969f9c1b4e1015e0e63ca4f382fc9e8189cf283.jpg",
+                "paste-fe3c52169eb6cc5fe4d3b7cb54351aa2ee3c38f9.jpg"
+            ],
+            "name": "Mining Massive Datasets",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Collaborative Filtering",
+                        "<img src=\"paste-7d5f93e6c9bc81dd6154f774b208750b91120f91.jpg\"><br><img src=\"paste-cbab8d253c18b1896de26a2ea449df4e4886ccd9.jpg\"><br><img src=\"paste-8af0f155686b49e51cfa81d7b1d490d923b85ab3.jpg\">"
+                    ],
+                    "guid": "wA-3qS7]){",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "recommender_systems"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Content-based Recommendations",
+                        "<img src=\"paste-0fbb065dc8f28bb49eacaf483300488449aea620.jpg\">"
+                    ],
+                    "guid": "FD(zwL!Ot,",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "recommender_systems"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Recommender Systems: definitions",
+                        "<img src=\"paste-86233755ab6c89ba80b902719696ae58ac739e4e.jpg\">"
+                    ],
+                    "guid": "b~%vvFVm0p",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "recommender_systems"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Latent factor models",
+                        "<img src=\"paste-10bb40f688c3a710dffbdc5558053c3e5571546b.jpg\">"
+                    ],
+                    "guid": "D0$4|z@$,0",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "recommender_systems"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Link analysis: Flow formulation",
+                        "<img src=\"paste-e2d14d3322a80331c44672974c6806754cbb9e97.jpg\">"
+                    ],
+                    "guid": "ucB>/7NurZ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "link_analysis"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Link analysis: Matrix formulation",
+                        "<img src=\"paste-1f2037a437c0e636afe85f72ea760b3ad2a4bc3a.jpg\">"
+                    ],
+                    "guid": "NVB2UKO9]M",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "link_analysis"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Link analysis: practical computation",
+                        "<img src=\"paste-6a628f3594b01ac68b08f0246ab24e9f9dfe3bf8.jpg\"><br><img src=\"paste-d86d54ff9c68ec5f0c3809097c6525dd73905f74.jpg\">"
+                    ],
+                    "guid": "kgJaH0Gt`?",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "link_analysis"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Topic-specific PageRank",
+                        "<img src=\"paste-54586cac0fc8a2443120f252e2e5c1e37760989c.jpg\">"
+                    ],
+                    "guid": "N]<V#4)e]I",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "link_analysis"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TrustRank",
+                        "<img src=\"paste-064342f4945fbd620a10e41ce045643661fa5468.jpg\">"
+                    ],
+                    "guid": "nH{NB:fq$f",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "link_analysis"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Locality Sensitive Hashing: definitions",
+                        "<img src=\"paste-1b658bb6fb4be0bdf3f388854b8c7f3181f384e6.jpg\"><br><img src=\"paste-77d2f2e9bbd82ac080ac34ff7fdff9ee95166c6f.jpg\">"
+                    ],
+                    "guid": "j]]HvGbOW4",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "locality_sensitive_hashing"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Shingling",
+                        "<img src=\"paste-ab2790d664ba31701ea49cd6ad3d2e13d2b7070f.jpg\">"
+                    ],
+                    "guid": "lzLY?=SM7f",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "locality_sensitive_hashing"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Min-hashing",
+                        "<img src=\"paste-54da0d032623c01ac3082adf8cf689909f20b101.jpg\">"
+                    ],
+                    "guid": "jSXwqfl#1#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "locality_sensitive_hashing"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Locality Sensitive Hashing",
+                        "<img src=\"paste-e30678a6bf1ecd29399fc1d17be451e36cc669c4.jpg\"><br><img src=\"paste-e1c27cfd714a48f73bd23f2517d980c33cc4dbac.jpg\"><br>"
+                    ],
+                    "guid": "IpKzv4m{}[",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "locality_sensitive_hashing"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Association Rule Discovery: definitions + genereal algorithm",
+                        "<img src=\"paste-1ce005f20343901227068a587ddf3c98fa4292ba.jpg\"><br><img src=\"paste-9abf1f320f352d1b5db074478061d5fe263ba338.jpg\"><br><img src=\"paste-c57f38ba5b066571a8bbc9f0aa4d542d1380e57e.jpg\">"
+                    ],
+                    "guid": "vCKS}f:RnZ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "association_rule_discovery"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A-Priori",
+                        "<img src=\"paste-3045e570ea8bdce9b01a96abbba018da5f03a980.jpg\">"
+                    ],
+                    "guid": "Ldbra6)2~J",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "association_rule_discovery"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCY",
+                        "<img src=\"paste-7faabed879de38a777eb964aff1e43e42d39f1f0.jpg\">"
+                    ],
+                    "guid": "y8,UU[m],z",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "association_rule_discovery"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Online advertising: definitions + online bipartite graph matching",
+                        "<img src=\"paste-6c0b8d97a7a7461e24970c325c56b1e83c95f064.jpg\"><br><img src=\"paste-7d962d609885220aa4bda30d2f7f050195cb21dd.jpg\"><br><img src=\"paste-f0818257e667fad422b96b1a24f127988e3b9193.jpg\">"
+                    ],
+                    "guid": "B{?Qwc!-lP",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "online_advertising"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "BALANCE algorithm",
+                        "<img src=\"paste-8b2cb104f4c1911138ed7de9066126e8f8592364.jpg\"><br><img src=\"paste-55005826695503f61db28c0040b4839ea1eaf913.jpg\">"
+                    ],
+                    "guid": "Cmy&SgE+d/",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "online_advertising"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stream filtering: definitions",
+                        "<img src=\"paste-4ca9a1c136c2262f74420750f6fc5b222833b3c0.jpg\">"
+                    ],
+                    "guid": "Dokqu8Lse%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_filtering"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "First-cut",
+                        "<img src=\"paste-af5af4c344465555bcf2c458f7324266fcfdd493.jpg\">"
+                    ],
+                    "guid": "F)>`<_=W&m",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_filtering"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bloom filter",
+                        "<img src=\"paste-2737cddf49375b76e45b44b81ca3f16d6db21b82.jpg\">"
+                    ],
+                    "guid": "sJ.+(&)t0g",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_filtering"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sampling a fixed portion",
+                        "<img src=\"paste-6a8e7cc038f601c827a3747a0f77ec5335354bf1.jpg\">"
+                    ],
+                    "guid": "I9ZI{^8ucZ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_sampling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sampling a fixed size",
+                        "<img src=\"paste-bb4db797b2befc4c153a2834146c552327e433f5.jpg\"><br><img src=\"paste-fe3c52169eb6cc5fe4d3b7cb54351aa2ee3c38f9.jpg\">"
+                    ],
+                    "guid": "D)5-Iu3r&K",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_sampling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stream counting",
+                        "<img src=\"paste-9c1f507c5a53e7927e479d9ac39739b82e8ade95.jpg\">"
+                    ],
+                    "guid": "P&fu=fCYOI",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_counting"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Flajolet-Martin, moments",
+                        "<img src=\"paste-4f9afdd330b31958b080418546ea43317e7c2611.jpg\">"
+                    ],
+                    "guid": "Ehn[[#YQS(",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_counting"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AMS",
+                        "<img src=\"paste-54be41e6fdaac50588f74f9b0ef5da5cb7669ab8.jpg\">"
+                    ],
+                    "guid": "Oxa3LTm5,x",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_counting"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark&nbsp;DF: parallelize",
+                        "<img src=\"paste-b296ef35a43a2c71fe457a876a09dfb242a4a3f6.jpg\">"
+                    ],
+                    "guid": "iG<&/L$0Xy",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark&nbsp;DF: text files",
+                        "<img src=\"paste-5f13582fb9e2388ed80d53d5bb1b1259578c978a.jpg\">"
+                    ],
+                    "guid": "JX{hiiDLTc",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark DF: collection",
+                        "Besides the standard `.collect`, there are other ways of retrieving the RDD result:<br><br><img src=\"paste-416ef35dd46c3bd4846177eeb06d681abe1cdc4d.jpg\"><br><img src=\"paste-35e2dba5eea16b0812863be83a63f8cb7b204cb2.jpg\">"
+                    ],
+                    "guid": "H!d^yI9h2e",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark&nbsp;DF: mapping",
+                        "<img src=\"paste-c7084092694a5c256fc86f7b279c4cfe636925c2.jpg\">"
+                    ],
+                    "guid": "rPo|_*}[u:",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark&nbsp;DF: taking data",
+                        "<img src=\"paste-450142d0a4fd7f6d4a3bf0749528e2ae45e02aa5.jpg\">"
+                    ],
+                    "guid": "L^}U5=Gjy%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark&nbsp;DF: iterating",
+                        "<img src=\"paste-f099ddd53da7eac35b986909d1c06d3329070cf6.jpg\">"
+                    ],
+                    "guid": "pIV[]rtmv4",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark&nbsp;DF: reshaping",
+                        "<img src=\"paste-f969f9c1b4e1015e0e63ca4f382fc9e8189cf283.jpg\"><br><img src=\"paste-905347aa7a094f1a0785453f53be78494acaf8d3.jpg\">"
+                    ],
+                    "guid": "e$:L>l+n-j",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark Streaming",
+                        "<img src=\"paste-a063ad69cbc92316c4af32c729b4702f79767e8f.jpg\">"
+                    ],
+                    "guid": "Q>1LrubCpX",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PySpark ML",
+                        "<img src=\"paste-e71ea27e824efd3557a2f93064cf1ad748c9fc28.jpg\"><br><img src=\"paste-d9618d1c4654f3af21574e943a52b39795719760.jpg\">"
+                    ],
+                    "guid": "PLNZ%r1H.g",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "pyspark"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "cf1e4576-b03e-11ed-b9af-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Robotics 1",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "b3d5f704-6f26-11ed-9d79-8510bff65c40",
+    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 200,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 2000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Heidelberg",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+            "css": "",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-a8710",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "11",
+                "příklad"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n<div align=right>{{Tags}}</div>"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
