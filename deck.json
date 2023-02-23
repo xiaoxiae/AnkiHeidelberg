@@ -31,6 +31,7 @@
                 "paste-064342f4945fbd620a10e41ce045643661fa5468.jpg",
                 "paste-0fbb065dc8f28bb49eacaf483300488449aea620.jpg",
                 "paste-10bb40f688c3a710dffbdc5558053c3e5571546b.jpg",
+                "paste-111480e622db302402f5faa21b08afc69464a579.jpg",
                 "paste-1b658bb6fb4be0bdf3f388854b8c7f3181f384e6.jpg",
                 "paste-1ce005f20343901227068a587ddf3c98fa4292ba.jpg",
                 "paste-1f2037a437c0e636afe85f72ea760b3ad2a4bc3a.jpg",
@@ -53,6 +54,7 @@
                 "paste-7d5f93e6c9bc81dd6154f774b208750b91120f91.jpg",
                 "paste-7d962d609885220aa4bda30d2f7f050195cb21dd.jpg",
                 "paste-7faabed879de38a777eb964aff1e43e42d39f1f0.jpg",
+                "paste-81c93b8f05657d9d17bfa1438eeb720bec35aece.jpg",
                 "paste-86233755ab6c89ba80b902719696ae58ac739e4e.jpg",
                 "paste-8af0f155686b49e51cfa81d7b1d490d923b85ab3.jpg",
                 "paste-8b2cb104f4c1911138ed7de9066126e8f8592364.jpg",
@@ -63,10 +65,10 @@
                 "paste-ab2790d664ba31701ea49cd6ad3d2e13d2b7070f.jpg",
                 "paste-af5af4c344465555bcf2c458f7324266fcfdd493.jpg",
                 "paste-b296ef35a43a2c71fe457a876a09dfb242a4a3f6.jpg",
+                "paste-b351f41f20ef813cdacc59fb32190023b5b6f580.jpg",
                 "paste-bb4db797b2befc4c153a2834146c552327e433f5.jpg",
                 "paste-c57f38ba5b066571a8bbc9f0aa4d542d1380e57e.jpg",
                 "paste-c7084092694a5c256fc86f7b279c4cfe636925c2.jpg",
-                "paste-cbab8d253c18b1896de26a2ea449df4e4886ccd9.jpg",
                 "paste-d86d54ff9c68ec5f0c3809097c6525dd73905f74.jpg",
                 "paste-d9618d1c4654f3af21574e943a52b39795719760.jpg",
                 "paste-e1c27cfd714a48f73bd23f2517d980c33cc4dbac.jpg",
@@ -86,7 +88,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Collaborative Filtering",
-                        "<img src=\"paste-7d5f93e6c9bc81dd6154f774b208750b91120f91.jpg\"><br><img src=\"paste-cbab8d253c18b1896de26a2ea449df4e4886ccd9.jpg\"><br><img src=\"paste-8af0f155686b49e51cfa81d7b1d490d923b85ab3.jpg\">"
+                        "<img src=\"paste-7d5f93e6c9bc81dd6154f774b208750b91120f91.jpg\"><br><img src=\"paste-111480e622db302402f5faa21b08afc69464a579.jpg\"><br><img src=\"paste-8af0f155686b49e51cfa81d7b1d490d923b85ab3.jpg\">"
                     ],
                     "guid": "wA-3qS7]){",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -501,6 +503,30 @@
                     "tags": [
                         "pyspark"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AMS: proof for one variable",
+                        "<img src=\"paste-81c93b8f05657d9d17bfa1438eeb720bec35aece.jpg\">"
+                    ],
+                    "guid": "n7w2do,XKc",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "stream_counting"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Spam mass estimation",
+                        "<img src=\"paste-b351f41f20ef813cdacc59fb32190023b5b6f580.jpg\">"
+                    ],
+                    "guid": "w72TWi#,iU",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "link_analysis"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -515,11 +541,397 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-018663dc1a16d3630f5e983b94f230e5e4e36056.jpg",
+                "paste-04a6659ede6356654d43701ab82ade51fbc3ab23.jpg",
+                "paste-068004b52ecea48f6dba23efe76cf7670ba9d84b.jpg",
+                "paste-0c4730e897d7a35c938ae8871f531c7a2cf39c13.jpg",
+                "paste-140f35bcbd2de907cb8501419491fc50a20a95ba.jpg",
+                "paste-1736faa1e2997ef7b249982ffa3963c7d704164f.jpg",
+                "paste-26e3288cb8bfd17202f1e94df31b8fbc0a8b6746.jpg",
+                "paste-2badea30550295f58580bd5fdf753aa948a1bea7.jpg",
+                "paste-302709ee0c4c53992d733c4295a3ce91341f65db.jpg",
+                "paste-441a0d4ecea07a788fc15b8666f142ad7ee65ddc.jpg",
+                "paste-49a64bc6f90ff24a6b72c66340f84fbcbe3d5ed0.jpg",
+                "paste-4a6c34f9192ea3587e8e926375491f9fab8357ac.jpg",
+                "paste-4cdbfe80fde117a3e204807b09ef7829320e7e19.jpg",
+                "paste-542305c5fcc60565ed66a61d20e6aa63c89cd23a.jpg",
+                "paste-5d172c6dc65e9be8416eae7f1da342c3f2dfeb82.jpg",
+                "paste-6024fd1a7051434198ca28d243c810bc6cbbe43a.jpg",
+                "paste-63b7bff5f24796674aa8075f55bf87f5e4524b2e.jpg",
+                "paste-66bf9872534a375de5909f4db8eb2ad6c7ade19f.jpg",
+                "paste-6c0967871f64d99208750cb4c8d65eaab2e273e8.jpg",
+                "paste-6c0ccef4de3d903a64f5656811f3210f0b03a180.jpg",
+                "paste-6d29f5fe170ee63d391911f6e7b0d3e9e7069e7e.jpg",
+                "paste-6ea8c3ddfbe178751d979929e0bbf52ed7d25598.jpg",
+                "paste-6ffc6d0d8236e367bbe6424330fee7f4bae4b599.jpg",
+                "paste-712bfbcdba9bec9627a693721758c8ac56eceb0f.jpg",
+                "paste-7debb36ebd1fe678e59c0d5d11f54fac4820af0f.jpg",
+                "paste-82a5546f5710b0ed496d1c131fe3e7424ddae436.jpg",
+                "paste-862c5066ddeb3fe71ddf4ec3f6f7e6bee1d5ab03.jpg",
+                "paste-8708066ae1482cf9e96b2eb8feeb7fe2c2a7c41d.jpg",
+                "paste-8b13b377f3f48abb0ec974a7ad9bf4a0d96ccf5a.jpg",
+                "paste-8b595a64497e5dd6f3c3d6dd9a9c87ee2b95c88d.jpg",
+                "paste-95b8a1bb9b64f733c17dfd28b3f31804a7d27c73.jpg",
+                "paste-95e4a6a27e5578d54bbdc0671d7b03b84c9c8e88.jpg",
+                "paste-9c9160e30efccc8af410f1c70cd2913e9561adfa.jpg",
+                "paste-9dd09b5992e3aac929c37cee17a3300a05a38d3e.jpg",
+                "paste-abe1f5267a011e3bcb68b54338a04c415c9e56bc.jpg",
+                "paste-b49b9b88866127d107c2836785ddd08a5ed59d4b.jpg",
+                "paste-bd7490f5a472905ee4fa092dcbfaae8b7e8f4333.jpg",
+                "paste-bf67332bf3827fbe7e286df5df6f59804482e117.jpg",
+                "paste-c0668178f6d27cc48b9696d82f5ba52b36e1b4cf.jpg",
+                "paste-cf4de98a312218ef4498533d77390c28fe1b9edc.jpg",
+                "paste-d7b978c73f067424a6f80f76019012a64ae180d3.jpg",
+                "paste-d812677a45733fa9cf5b710dd3a32d88068dd17a.jpg",
+                "paste-df4f93e7bc11967340f7b885d2ce808e76d65e52.jpg",
+                "paste-e03aaa925be28c3e4790e688eb52e9281410d830.jpg",
+                "paste-e28b72a4012324b628d12c67fb5d259a522915fc.jpg",
+                "paste-e37e207056abef9797aa7c049f4ec5c65bf12104.jpg",
+                "paste-e4bdd5259be1fe1b0acef0aaed8c668dfa56fc65.jpg",
+                "paste-f1e6d2784d604424b5d7eeadb0bd2ee0fdd6ee65.jpg"
+            ],
             "name": "Robotics 1",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Components (definitions)",
+                        "<img src=\"paste-f1e6d2784d604424b5d7eeadb0bd2ee0fdd6ee65.jpg\">"
+                    ],
+                    "guid": "LY&e`,[?4A",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "components"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees of freedom, Grübler",
+                        "<img src=\"paste-6ea8c3ddfbe178751d979929e0bbf52ed7d25598.jpg\"><br><img src=\"paste-63b7bff5f24796674aa8075f55bf87f5e4524b2e.jpg\">"
+                    ],
+                    "guid": "K8[]|2wN*#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "components"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Actuators",
+                        "<img src=\"paste-4a6c34f9192ea3587e8e926375491f9fab8357ac.jpg\"><br><img src=\"paste-d812677a45733fa9cf5b710dd3a32d88068dd17a.jpg\">"
+                    ],
+                    "guid": "GS[eL7%o@6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "components"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kinematics (definitions)",
+                        "<img src=\"paste-e03aaa925be28c3e4790e688eb52e9281410d830.jpg\">"
+                    ],
+                    "guid": "mow{j)232]",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Forward kinematics",
+                        "<img src=\"paste-df4f93e7bc11967340f7b885d2ce808e76d65e52.jpg\">"
+                    ],
+                    "guid": "oDrFhrDGXn",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "forward_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Body pose, elementary rotations, notation",
+                        "<img src=\"paste-7debb36ebd1fe678e59c0d5d11f54fac4820af0f.jpg\"><br><img src=\"paste-6024fd1a7051434198ca28d243c810bc6cbbe43a.jpg\">"
+                    ],
+                    "guid": "oF@7,@8IZv",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "forward_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Euler angles",
+                        "<img src=\"paste-e37e207056abef9797aa7c049f4ec5c65bf12104.jpg\">"
+                    ],
+                    "guid": "Fx|*g2uV5]",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "forward_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Denavit &amp; Hartenberg Notation",
+                        "<img src=\"paste-8b595a64497e5dd6f3c3d6dd9a9c87ee2b95c88d.jpg\"><br><img src=\"paste-6c0ccef4de3d903a64f5656811f3210f0b03a180.jpg\"><br><img src=\"paste-82a5546f5710b0ed496d1c131fe3e7424ddae436.jpg\"><br><img src=\"paste-4cdbfe80fde117a3e204807b09ef7829320e7e19.jpg\">"
+                    ],
+                    "guid": "Lge)l:WFN$",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "forward_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inverse Kinematics (definitions)",
+                        "<img src=\"paste-6ffc6d0d8236e367bbe6424330fee7f4bae4b599.jpg\"><br><img src=\"paste-140f35bcbd2de907cb8501419491fc50a20a95ba.jpg\">"
+                    ],
+                    "guid": "xER(D+3Nu1",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Analytical solution to inverse kinematics",
+                        "<img src=\"paste-542305c5fcc60565ed66a61d20e6aa63c89cd23a.jpg\">"
+                    ],
+                    "guid": "phKe4iY^W%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Decoupling",
+                        "<img src=\"paste-95e4a6a27e5578d54bbdc0671d7b03b84c9c8e88.jpg\">"
+                    ],
+                    "guid": "qf>Tc4WA$h",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Newton method for inverse kinematics",
+                        "<img src=\"paste-abe1f5267a011e3bcb68b54338a04c415c9e56bc.jpg\">"
+                    ],
+                    "guid": "LPM%Xt8V8e",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gradient method for inverse kinematics",
+                        "<img src=\"paste-9c9160e30efccc8af410f1c70cd2913e9561adfa.jpg\">"
+                    ],
+                    "guid": "uE;7er_v9",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Velocity kinematics",
+                        "<img src=\"paste-e4bdd5259be1fe1b0acef0aaed8c668dfa56fc65.jpg\"><br><img src=\"paste-5d172c6dc65e9be8416eae7f1da342c3f2dfeb82.jpg\"><br><img src=\"paste-1736faa1e2997ef7b249982ffa3963c7d704164f.jpg\"><br><img src=\"paste-49a64bc6f90ff24a6b72c66340f84fbcbe3d5ed0.jpg\">"
+                    ],
+                    "guid": "mpL9N8^AL7",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "velocity_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Higher-order velocity kinematics",
+                        "<img src=\"paste-862c5066ddeb3fe71ddf4ec3f6f7e6bee1d5ab03.jpg\">"
+                    ],
+                    "guid": "xmce!m1wYw",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "velocity_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inverse velocity kinematics, singularities",
+                        "<img src=\"paste-068004b52ecea48f6dba23efe76cf7670ba9d84b.jpg\"><br><img src=\"paste-b49b9b88866127d107c2836785ddd08a5ed59d4b.jpg\"><br><img src=\"paste-8b13b377f3f48abb0ec974a7ad9bf4a0d96ccf5a.jpg\"><br><img src=\"paste-bf67332bf3827fbe7e286df5df6f59804482e117.jpg\">"
+                    ],
+                    "guid": "OmLz0-u._Q",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_velocity_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pseudo-inverse",
+                        "<img src=\"paste-c0668178f6d27cc48b9696d82f5ba52b36e1b4cf.jpg\">"
+                    ],
+                    "guid": "h:+fd-a+F%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "inverse_velocity_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Force Kinematics",
+                        "<img src=\"paste-0c4730e897d7a35c938ae8871f531c7a2cf39c13.jpg\">"
+                    ],
+                    "guid": "cH.:=6pi*{",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "force_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kinetostatic duality",
+                        "<img src=\"paste-26e3288cb8bfd17202f1e94df31b8fbc0a8b6746.jpg\"><br><img src=\"paste-6d29f5fe170ee63d391911f6e7b0d3e9e7069e7e.jpg\"><br><img src=\"paste-8708066ae1482cf9e96b2eb8feeb7fe2c2a7c41d.jpg\">"
+                    ],
+                    "guid": "K.MtPF|E?j",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "force_kinematics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trajectory planning (definitions)",
+                        "<img src=\"paste-04a6659ede6356654d43701ab82ade51fbc3ab23.jpg\"><br><img src=\"paste-018663dc1a16d3630f5e983b94f230e5e4e36056.jpg\">"
+                    ],
+                    "guid": "i/tb{@LyBL",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cubic polynomial",
+                        "<img src=\"paste-95b8a1bb9b64f733c17dfd28b3f31804a7d27c73.jpg\">"
+                    ],
+                    "guid": "wC5vzR-1z;",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Splines",
+                        "<img src=\"paste-e28b72a4012324b628d12c67fb5d259a522915fc.jpg\">"
+                    ],
+                    "guid": "NKd`wYhH1,",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trajectory planning in Cartesian Space",
+                        "<img src=\"paste-66bf9872534a375de5909f4db8eb2ad6c7ade19f.jpg\">"
+                    ],
+                    "guid": "zE{%z?MF1%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trajectory planning in Cartesian Space: position",
+                        "<img src=\"paste-cf4de98a312218ef4498533d77390c28fe1b9edc.jpg\"><br><img src=\"paste-441a0d4ecea07a788fc15b8666f142ad7ee65ddc.jpg\"><br><img src=\"paste-2badea30550295f58580bd5fdf753aa948a1bea7.jpg\"><br><img src=\"paste-6c0967871f64d99208750cb4c8d65eaab2e273e8.jpg\">"
+                    ],
+                    "guid": "Jm`89+-_sA",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trajectory planning in Cartesian Space: orientation",
+                        "<img src=\"paste-712bfbcdba9bec9627a693721758c8ac56eceb0f.jpg\">"
+                    ],
+                    "guid": "DTsJm)ZK}E",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Uniform time scaling",
+                        "<img src=\"paste-bd7490f5a472905ee4fa092dcbfaae8b7e8f4333.jpg\">"
+                    ],
+                    "guid": "gL.u9(AFIJ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Velocity and force manipulability",
+                        "<img src=\"paste-302709ee0c4c53992d733c4295a3ce91341f65db.jpg\"><br><img src=\"paste-9dd09b5992e3aac929c37cee17a3300a05a38d3e.jpg\">"
+                    ],
+                    "guid": "p>3PjdbSc6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "manipulability"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trajectory planning in Cartesian Space: optimal trajectories",
+                        "<img src=\"paste-d7b978c73f067424a6f80f76019012a64ae180d3.jpg\">"
+                    ],
+                    "guid": "Pw2nyIf|0-",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "trajectory_planning"
+                    ]
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         }
