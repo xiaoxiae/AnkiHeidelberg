@@ -11,3 +11,4 @@ To import the decks:
 
 ### 1st semester
 - Mining Massive Datasets
+- Robotics 1
