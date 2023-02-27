@@ -10,11 +10,393 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-00ae86e9b7e84d494601d80b87132fb9dad33e19.jpg",
+                "paste-00bdb4fb8fe7a8b70892b119e4ce269509df216c.jpg",
+                "paste-08de6b9143bce5ab1a981f586321278dd5f3af85.jpg",
+                "paste-1312fad3be115e9cfce66a64a3cebd596c5c903a.jpg",
+                "paste-18c5b3497b4ceb602116226b2941612d16e83f28.jpg",
+                "paste-1c1b3805001eb3a741b5be259b0b7e737f322117.jpg",
+                "paste-2fcae8227559acfa6f2911c4453dffd07424d2c2.jpg",
+                "paste-32f104aa5c7eb217fbcd72f051d415552f520e3a.jpg",
+                "paste-3be8b7faaab2642099b0fd79be01ebe7f7a53d7b.jpg",
+                "paste-3dc959998042d278538bc1b74b5876027af36bdc.jpg",
+                "paste-3ddaa8d352f56b08ee130bb004745a26c1d6c5d3.jpg",
+                "paste-40374dc1584556219d5fb3429f327d50c93bca3a.jpg",
+                "paste-433f6aa3fab308d4a827c5174d945aff0934bfd0.jpg",
+                "paste-45a4752df1340bdc0de010d6cf672ab62c051916.jpg",
+                "paste-47f6c054b270e4d5303c3da844478842629506e5.jpg",
+                "paste-4b7a730da4b31c2deac96a4c5bb7a5126ba58e34.jpg",
+                "paste-56165a5f632f34383f101f2dd379be92a3ca2d60.jpg",
+                "paste-5618a787152b12c015947ad92b09ce2c337fe61f.jpg",
+                "paste-566f8de5ccc893b3a14b37af23f5ea7fa27c020b.jpg",
+                "paste-64441441886a7aca07740ff975e021f3baae40b2.jpg",
+                "paste-70c9790bd2c3dae3d3fc0ccb705b3f87501d5b3e.jpg",
+                "paste-796bf09bc5c7400aa00c6cc15ea1cac5cf4511ad.jpg",
+                "paste-8f3cc16f9d2509d91275e8893d0d355e64ce505b.jpg",
+                "paste-98759906fc8390a69ecf785e8af83e9507b80340.jpg",
+                "paste-9926f367ad9f92ef74a1da98a8d7fd680447b2fe.jpg",
+                "paste-9b78a7da319ce0aece4ff8d0a34260bd89403787.jpg",
+                "paste-ad9687897a65d888d4671fdb9eb504251f6aa8ab.jpg",
+                "paste-ada3db987d8a2058dbf1f9e1f9d5152a261e4dda.jpg",
+                "paste-b07719c9d2a44eced10d965e814c573d39a988e9.jpg",
+                "paste-b350e82d7b34c1a77e14e8147818a568eea5f33a.jpg",
+                "paste-b81fc8ca99e1107334a3e1695a95084e2e7ee8df.jpg",
+                "paste-be22a9686e5e277220ac86bf8b7fc16750fe1fd2.jpg",
+                "paste-cea5aa51b07353178ba67d763d958ec7bdac39b3.jpg",
+                "paste-d2daa95332ba11dc782d96a44b4f2533ff56f6ae.jpg",
+                "paste-d8bd5f1af5a681b4b97cb4817fd1ae7c40a261c8.jpg",
+                "paste-d8f7d0895cdde973cd9f7289f8c3cdb163a6f239.jpg",
+                "paste-dc9fc9007a23841621ef800859f8c5939631b530.jpg",
+                "paste-e77e24b7a666fe986920b94cf406fc39ac981ded.jpg",
+                "paste-ed3c57c3837b3d32687372e35da42d73a5b7e1de.jpg",
+                "paste-fafe08591b0fa1ddea409563f94d08023afd2f0b.jpg"
+            ],
             "name": "GPU Computing",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "BSP model",
+                        "<img src=\"paste-32f104aa5c7eb217fbcd72f051d415552f520e3a.jpg\">"
+                    ],
+                    "guid": "yNG|sGCOa3",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Moore's law",
+                        "<img src=\"paste-56165a5f632f34383f101f2dd379be92a3ca2d60.jpg\">"
+                    ],
+                    "guid": "HXrvlFT;J^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "amdahl's law",
+                        "<img src=\"paste-dc9fc9007a23841621ef800859f8c5939631b530.jpg\">"
+                    ],
+                    "guid": "N}}2[#CYYp",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: memory model overview",
+                        "<img src=\"paste-566f8de5ccc893b3a14b37af23f5ea7fa27c020b.jpg\">"
+                    ],
+                    "guid": "I#^q,$85<D",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: global/device memory",
+                        "<img src=\"paste-be22a9686e5e277220ac86bf8b7fc16750fe1fd2.jpg\">"
+                    ],
+                    "guid": "B8eH:w4Y71",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: shared memory",
+                        "<img src=\"paste-ad9687897a65d888d4671fdb9eb504251f6aa8ab.jpg\">"
+                    ],
+                    "guid": "N6b5r.=(%s",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: registers",
+                        "<img src=\"paste-18c5b3497b4ceb602116226b2941612d16e83f28.jpg\">"
+                    ],
+                    "guid": "I486=#.{*;",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: host memory",
+                        "<img src=\"paste-fafe08591b0fa1ddea409563f94d08023afd2f0b.jpg\">"
+                    ],
+                    "guid": "n|P/p%CZ~x",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: prefixes (variables, functions)",
+                        "<img src=\"paste-64441441886a7aca07740ff975e021f3baae40b2.jpg\">"
+                    ],
+                    "guid": "l,VVF#~,d*",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: coalescing",
+                        "<img src=\"paste-9b78a7da319ce0aece4ff8d0a34260bd89403787.jpg\"><br><img src=\"paste-98759906fc8390a69ecf785e8af83e9507b80340.jpg\">"
+                    ],
+                    "guid": "ph32tKm%c#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: thread scheduling",
+                        "<img src=\"paste-9926f367ad9f92ef74a1da98a8d7fd680447b2fe.jpg\">"
+                    ],
+                    "guid": "Bzc*Z^-hqP",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA matmul: CPU version",
+                        "<img src=\"paste-d8f7d0895cdde973cd9f7289f8c3cdb163a6f239.jpg\">"
+                    ],
+                    "guid": "A8K}NLVnB~",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA matmul: GPU (naive)",
+                        "<img src=\"paste-4b7a730da4b31c2deac96a4c5bb7a5126ba58e34.jpg\">"
+                    ],
+                    "guid": "c?d&7RQZ1r",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA matmul: GPU (multiple thread blocks)",
+                        "<img src=\"paste-8f3cc16f9d2509d91275e8893d0d355e64ce505b.jpg\">"
+                    ],
+                    "guid": "j{2sRJsQL`",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA matmul: GPU (shared memory)",
+                        "<img src=\"paste-3be8b7faaab2642099b0fd79be01ebe7f7a53d7b.jpg\"><br><img src=\"paste-00ae86e9b7e84d494601d80b87132fb9dad33e19.jpg\">"
+                    ],
+                    "guid": "Q{`>j&vCVm",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parallelism",
+                        "<img src=\"paste-cea5aa51b07353178ba67d763d958ec7bdac39b3.jpg\">"
+                    ],
+                    "guid": "Q{Ml},M.^u",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Profiling, roofline model",
+                        "<img src=\"paste-40374dc1584556219d5fb3429f327d50c93bca3a.jpg\">"
+                    ],
+                    "guid": "H-+^mLJzx`",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA reduction: naive",
+                        "<img src=\"paste-433f6aa3fab308d4a827c5174d945aff0934bfd0.jpg\">"
+                    ],
+                    "guid": "sc8=6;YhYg",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA reduction: address divergent",
+                        "<img src=\"paste-1c1b3805001eb3a741b5be259b0b7e737f322117.jpg\">"
+                    ],
+                    "guid": "wLM+]D~HrK",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA reduction: bank conflicts",
+                        "<img src=\"paste-e77e24b7a666fe986920b94cf406fc39ac981ded.jpg\">"
+                    ],
+                    "guid": "PO5q1|$q}A",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA reduction: using idle threads",
+                        "<img src=\"paste-3dc959998042d278538bc1b74b5876027af36bdc.jpg\">"
+                    ],
+                    "guid": "sF?gJbe&3g",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA reduction: manual unrolling",
+                        "<img src=\"paste-d8bd5f1af5a681b4b97cb4817fd1ae7c40a261c8.jpg\">"
+                    ],
+                    "guid": "kTI<ZU3{:,",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA reduction: overview",
+                        "<img src=\"paste-45a4752df1340bdc0de010d6cf672ab62c051916.jpg\">"
+                    ],
+                    "guid": "fpGhK;8ltW",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AOS vs SOA",
+                        "<img src=\"paste-47f6c054b270e4d5303c3da844478842629506e5.jpg\">"
+                    ],
+                    "guid": "FupDOzFVQo",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA nbody: naive implementation",
+                        "<img src=\"paste-08de6b9143bce5ab1a981f586321278dd5f3af85.jpg\">"
+                    ],
+                    "guid": "jPc7t@)Wyp",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA nbody: shared memory implementation",
+                        "<img src=\"paste-ed3c57c3837b3d32687372e35da42d73a5b7e1de.jpg\">"
+                    ],
+                    "guid": "J|@1b+3PM6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA streaming: basics",
+                        "<img src=\"paste-b81fc8ca99e1107334a3e1695a95084e2e7ee8df.jpg\"><br><img src=\"paste-b07719c9d2a44eced10d965e814c573d39a988e9.jpg\">"
+                    ],
+                    "guid": "QVlSfC|({D",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA streaming: issues",
+                        "<img src=\"paste-b350e82d7b34c1a77e14e8147818a568eea5f33a.jpg\">"
+                    ],
+                    "guid": "MS%$}hdF=o",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Virtual Shared Memory",
+                        "<img src=\"paste-3ddaa8d352f56b08ee130bb004745a26c1d6c5d3.jpg\">"
+                    ],
+                    "guid": "lv%#9u7fR5",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "OpenACC",
+                        "<img src=\"paste-00bdb4fb8fe7a8b70892b119e4ce269509df216c.jpg\"><br><img src=\"paste-2fcae8227559acfa6f2911c4453dffd07424d2c2.jpg\"><br><img src=\"paste-d2daa95332ba11dc782d96a44b4f2533ff56f6ae.jpg\"><br><img src=\"paste-ada3db987d8a2058dbf1f9e1f9d5152a261e4dda.jpg\">"
+                    ],
+                    "guid": "FX7i,j[|d@",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stencil computations",
+                        "<img src=\"paste-5618a787152b12c015947ad92b09ce2c337fe61f.jpg\">"
+                    ],
+                    "guid": "rk=g!z%1y6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "OpenCL",
+                        "<img src=\"paste-1312fad3be115e9cfce66a64a3cebd596c5c903a.jpg\">"
+                    ],
+                    "guid": "Ql(MbrPE5r",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CUDA: memory management examples",
+                        "<img src=\"paste-796bf09bc5c7400aa00c6cc15ea1cac5cf4511ad.jpg\">"
+                    ],
+                    "guid": "z.ck)*X|br",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consistency &amp; Coherence",
+                        "<img src=\"paste-70c9790bd2c3dae3d3fc0ccb705b3f87501d5b3e.jpg\">"
+                    ],
+                    "guid": "n~,P&@g3K-",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -548,30 +930,27 @@
                 "paste-0c4730e897d7a35c938ae8871f531c7a2cf39c13.jpg",
                 "paste-140f35bcbd2de907cb8501419491fc50a20a95ba.jpg",
                 "paste-1736faa1e2997ef7b249982ffa3963c7d704164f.jpg",
+                "paste-255808606e16f9f06ea4d343f59efe200918aceb.jpg",
                 "paste-26e3288cb8bfd17202f1e94df31b8fbc0a8b6746.jpg",
                 "paste-2badea30550295f58580bd5fdf753aa948a1bea7.jpg",
                 "paste-302709ee0c4c53992d733c4295a3ce91341f65db.jpg",
                 "paste-441a0d4ecea07a788fc15b8666f142ad7ee65ddc.jpg",
                 "paste-49a64bc6f90ff24a6b72c66340f84fbcbe3d5ed0.jpg",
                 "paste-4a6c34f9192ea3587e8e926375491f9fab8357ac.jpg",
-                "paste-4cdbfe80fde117a3e204807b09ef7829320e7e19.jpg",
                 "paste-542305c5fcc60565ed66a61d20e6aa63c89cd23a.jpg",
                 "paste-5d172c6dc65e9be8416eae7f1da342c3f2dfeb82.jpg",
                 "paste-6024fd1a7051434198ca28d243c810bc6cbbe43a.jpg",
                 "paste-63b7bff5f24796674aa8075f55bf87f5e4524b2e.jpg",
                 "paste-66bf9872534a375de5909f4db8eb2ad6c7ade19f.jpg",
                 "paste-6c0967871f64d99208750cb4c8d65eaab2e273e8.jpg",
-                "paste-6c0ccef4de3d903a64f5656811f3210f0b03a180.jpg",
                 "paste-6d29f5fe170ee63d391911f6e7b0d3e9e7069e7e.jpg",
                 "paste-6ea8c3ddfbe178751d979929e0bbf52ed7d25598.jpg",
                 "paste-6ffc6d0d8236e367bbe6424330fee7f4bae4b599.jpg",
                 "paste-712bfbcdba9bec9627a693721758c8ac56eceb0f.jpg",
                 "paste-7debb36ebd1fe678e59c0d5d11f54fac4820af0f.jpg",
-                "paste-82a5546f5710b0ed496d1c131fe3e7424ddae436.jpg",
                 "paste-862c5066ddeb3fe71ddf4ec3f6f7e6bee1d5ab03.jpg",
                 "paste-8708066ae1482cf9e96b2eb8feeb7fe2c2a7c41d.jpg",
                 "paste-8b13b377f3f48abb0ec974a7ad9bf4a0d96ccf5a.jpg",
-                "paste-8b595a64497e5dd6f3c3d6dd9a9c87ee2b95c88d.jpg",
                 "paste-95b8a1bb9b64f733c17dfd28b3f31804a7d27c73.jpg",
                 "paste-95e4a6a27e5578d54bbdc0671d7b03b84c9c8e88.jpg",
                 "paste-9c9160e30efccc8af410f1c70cd2913e9561adfa.jpg",
@@ -586,6 +965,7 @@
                 "paste-d812677a45733fa9cf5b710dd3a32d88068dd17a.jpg",
                 "paste-df4f93e7bc11967340f7b885d2ce808e76d65e52.jpg",
                 "paste-e03aaa925be28c3e4790e688eb52e9281410d830.jpg",
+                "paste-e1a4ac77c7fd42797c3a8a08bbc17f37f31e7804.jpg",
                 "paste-e28b72a4012324b628d12c67fb5d259a522915fc.jpg",
                 "paste-e37e207056abef9797aa7c049f4ec5c65bf12104.jpg",
                 "paste-e4bdd5259be1fe1b0acef0aaed8c668dfa56fc65.jpg",
@@ -683,7 +1063,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Denavit &amp; Hartenberg Notation",
-                        "<img src=\"paste-8b595a64497e5dd6f3c3d6dd9a9c87ee2b95c88d.jpg\"><br><img src=\"paste-6c0ccef4de3d903a64f5656811f3210f0b03a180.jpg\"><br><img src=\"paste-82a5546f5710b0ed496d1c131fe3e7424ddae436.jpg\"><br><img src=\"paste-4cdbfe80fde117a3e204807b09ef7829320e7e19.jpg\">"
+                        "<img src=\"paste-255808606e16f9f06ea4d343f59efe200918aceb.jpg\"><br><img src=\"paste-e1a4ac77c7fd42797c3a8a08bbc17f37f31e7804.jpg\">"
                     ],
                     "guid": "Lge)l:WFN$",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
