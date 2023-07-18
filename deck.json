@@ -916,6 +916,7 @@
         },
         {
             "__type__": "Deck",
+            "activeTags": [],
             "children": [],
             "crowdanki_uuid": "cf1e4576-b03e-11ed-b9af-88d7f63eab01",
             "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
@@ -923,42 +924,33 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
+            "inactiveTags": [],
             "media_files": [
                 "paste-018663dc1a16d3630f5e983b94f230e5e4e36056.jpg",
                 "paste-04a6659ede6356654d43701ab82ade51fbc3ab23.jpg",
-                "paste-068004b52ecea48f6dba23efe76cf7670ba9d84b.jpg",
                 "paste-0c4730e897d7a35c938ae8871f531c7a2cf39c13.jpg",
-                "paste-140f35bcbd2de907cb8501419491fc50a20a95ba.jpg",
-                "paste-1736faa1e2997ef7b249982ffa3963c7d704164f.jpg",
                 "paste-255808606e16f9f06ea4d343f59efe200918aceb.jpg",
-                "paste-26e3288cb8bfd17202f1e94df31b8fbc0a8b6746.jpg",
                 "paste-2badea30550295f58580bd5fdf753aa948a1bea7.jpg",
-                "paste-302709ee0c4c53992d733c4295a3ce91341f65db.jpg",
                 "paste-441a0d4ecea07a788fc15b8666f142ad7ee65ddc.jpg",
-                "paste-49a64bc6f90ff24a6b72c66340f84fbcbe3d5ed0.jpg",
                 "paste-4a6c34f9192ea3587e8e926375491f9fab8357ac.jpg",
+                "paste-503113384f005050bdbaeaed242f0a9d1749d232.jpg",
                 "paste-542305c5fcc60565ed66a61d20e6aa63c89cd23a.jpg",
-                "paste-5d172c6dc65e9be8416eae7f1da342c3f2dfeb82.jpg",
                 "paste-6024fd1a7051434198ca28d243c810bc6cbbe43a.jpg",
-                "paste-63b7bff5f24796674aa8075f55bf87f5e4524b2e.jpg",
+                "paste-665e77cb3129f06747ac175e5efa2f2f0c5dff8c.jpg",
                 "paste-66bf9872534a375de5909f4db8eb2ad6c7ade19f.jpg",
                 "paste-6c0967871f64d99208750cb4c8d65eaab2e273e8.jpg",
-                "paste-6d29f5fe170ee63d391911f6e7b0d3e9e7069e7e.jpg",
-                "paste-6ea8c3ddfbe178751d979929e0bbf52ed7d25598.jpg",
-                "paste-6ffc6d0d8236e367bbe6424330fee7f4bae4b599.jpg",
                 "paste-712bfbcdba9bec9627a693721758c8ac56eceb0f.jpg",
+                "paste-76b8233da9a73bf900553951b2f6e56fe2ddb70d.jpg",
                 "paste-7debb36ebd1fe678e59c0d5d11f54fac4820af0f.jpg",
                 "paste-862c5066ddeb3fe71ddf4ec3f6f7e6bee1d5ab03.jpg",
-                "paste-8708066ae1482cf9e96b2eb8feeb7fe2c2a7c41d.jpg",
-                "paste-8b13b377f3f48abb0ec974a7ad9bf4a0d96ccf5a.jpg",
                 "paste-95b8a1bb9b64f733c17dfd28b3f31804a7d27c73.jpg",
                 "paste-95e4a6a27e5578d54bbdc0671d7b03b84c9c8e88.jpg",
                 "paste-9c9160e30efccc8af410f1c70cd2913e9561adfa.jpg",
-                "paste-9dd09b5992e3aac929c37cee17a3300a05a38d3e.jpg",
+                "paste-a77efa1c7840f72692702bae67c29e6949193271.jpg",
+                "paste-abbcb94c10d7f943c86184bcca04cea1644c314d.jpg",
                 "paste-abe1f5267a011e3bcb68b54338a04c415c9e56bc.jpg",
-                "paste-b49b9b88866127d107c2836785ddd08a5ed59d4b.jpg",
+                "paste-ba110ea6f3aa73d7bad746d81190fb5b98978b76.jpg",
                 "paste-bd7490f5a472905ee4fa092dcbfaae8b7e8f4333.jpg",
-                "paste-bf67332bf3827fbe7e286df5df6f59804482e117.jpg",
                 "paste-c0668178f6d27cc48b9696d82f5ba52b36e1b4cf.jpg",
                 "paste-cf4de98a312218ef4498533d77390c28fe1b9edc.jpg",
                 "paste-d7b978c73f067424a6f80f76019012a64ae180d3.jpg",
@@ -968,7 +960,7 @@
                 "paste-e1a4ac77c7fd42797c3a8a08bbc17f37f31e7804.jpg",
                 "paste-e28b72a4012324b628d12c67fb5d259a522915fc.jpg",
                 "paste-e37e207056abef9797aa7c049f4ec5c65bf12104.jpg",
-                "paste-e4bdd5259be1fe1b0acef0aaed8c668dfa56fc65.jpg",
+                "paste-ebf0430feed3cdf9dc8a6803ee031700fa0ec987.jpg",
                 "paste-f1e6d2784d604424b5d7eeadb0bd2ee0fdd6ee65.jpg"
             ],
             "name": "Robotics 1",
@@ -991,7 +983,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Degrees of freedom, Grübler",
-                        "<img src=\"paste-6ea8c3ddfbe178751d979929e0bbf52ed7d25598.jpg\"><br><img src=\"paste-63b7bff5f24796674aa8075f55bf87f5e4524b2e.jpg\">"
+                        "<img src=\"paste-665e77cb3129f06747ac175e5efa2f2f0c5dff8c.jpg\">"
                     ],
                     "guid": "K8[]|2wN*#",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -1075,7 +1067,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Inverse Kinematics (definitions)",
-                        "<img src=\"paste-6ffc6d0d8236e367bbe6424330fee7f4bae4b599.jpg\"><br><img src=\"paste-140f35bcbd2de907cb8501419491fc50a20a95ba.jpg\">"
+                        "<img src=\"paste-ba110ea6f3aa73d7bad746d81190fb5b98978b76.jpg\">"
                     ],
                     "guid": "xER(D+3Nu1",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -1135,7 +1127,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Velocity kinematics",
-                        "<img src=\"paste-e4bdd5259be1fe1b0acef0aaed8c668dfa56fc65.jpg\"><br><img src=\"paste-5d172c6dc65e9be8416eae7f1da342c3f2dfeb82.jpg\"><br><img src=\"paste-1736faa1e2997ef7b249982ffa3963c7d704164f.jpg\"><br><img src=\"paste-49a64bc6f90ff24a6b72c66340f84fbcbe3d5ed0.jpg\">"
+                        "<img src=\"paste-a77efa1c7840f72692702bae67c29e6949193271.jpg\">"
                     ],
                     "guid": "mpL9N8^AL7",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -1159,7 +1151,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Inverse velocity kinematics, singularities",
-                        "<img src=\"paste-068004b52ecea48f6dba23efe76cf7670ba9d84b.jpg\"><br><img src=\"paste-b49b9b88866127d107c2836785ddd08a5ed59d4b.jpg\"><br><img src=\"paste-8b13b377f3f48abb0ec974a7ad9bf4a0d96ccf5a.jpg\"><br><img src=\"paste-bf67332bf3827fbe7e286df5df6f59804482e117.jpg\">"
+                        "<img src=\"paste-abbcb94c10d7f943c86184bcca04cea1644c314d.jpg\">"
                     ],
                     "guid": "OmLz0-u._Q",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -1195,7 +1187,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kinetostatic duality",
-                        "<img src=\"paste-26e3288cb8bfd17202f1e94df31b8fbc0a8b6746.jpg\"><br><img src=\"paste-6d29f5fe170ee63d391911f6e7b0d3e9e7069e7e.jpg\"><br><img src=\"paste-8708066ae1482cf9e96b2eb8feeb7fe2c2a7c41d.jpg\">"
+                        "<img src=\"paste-503113384f005050bdbaeaed242f0a9d1749d232.jpg\">"
                     ],
                     "guid": "K.MtPF|E?j",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -1291,7 +1283,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Velocity and force manipulability",
-                        "<img src=\"paste-302709ee0c4c53992d733c4295a3ce91341f65db.jpg\"><br><img src=\"paste-9dd09b5992e3aac929c37cee17a3300a05a38d3e.jpg\">"
+                        "<img src=\"paste-ebf0430feed3cdf9dc8a6803ee031700fa0ec987.jpg\">"
                     ],
                     "guid": "p>3PjdbSc6",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -1310,6 +1302,16 @@
                     "tags": [
                         "trajectory_planning"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Law of cosines",
+                        "<img src=\"paste-76b8233da9a73bf900553951b2f6e56fe2ddb70d.jpg\">"
+                    ],
+                    "guid": "z7=Zq;~X8/",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
