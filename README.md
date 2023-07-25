@@ -13,3 +13,6 @@ To import the decks:
 - Mining Massive Datasets
 - Robotics 1
 - GPU computing
+
+### 2nd semester
+- Computational Geometry

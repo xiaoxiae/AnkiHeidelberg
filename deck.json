@@ -4,6 +4,1503 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "3b2da19a-2af5-11ee-a182-fb848b1dcd2c",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-003019f48a645b0dc1a8aa41c0685da6a200827b.jpg",
+                "paste-025604eff609d4db67db8d7529e7c694e8576f5a.jpg",
+                "paste-0376d5ea6acd0296ac7e1ec23d4c7f3fec5f77cc.jpg",
+                "paste-04f979ab24e8f54ee627215e99c80344f0029752.jpg",
+                "paste-058d60607ddef6b71a31b5c34534760992d85d71.jpg",
+                "paste-0638b2d2ce0db7f19ab45a2a1b344c5a3bdbac93.jpg",
+                "paste-073dfa7ca075f35f5cce5d0590b06ef0cac2e5cc.jpg",
+                "paste-076afbd1e6e768ae50cc2401a1ae17755059ac33.jpg",
+                "paste-07e7c18046b03b4dbe1d66bb840396e74e3e8275.jpg",
+                "paste-088742eaf990a9a0df0c42a8e1d89d3727149b3b.jpg",
+                "paste-0a7ec528a73f7b531bb3d5142eb80f4d114275a3.jpg",
+                "paste-0a811254dc653c2475760a50d17cce6fca7c3af6.jpg",
+                "paste-0a94ff40a16c24e4be652bc6ebbb5384393851b0.jpg",
+                "paste-0aa76b781de428bedcc241f0550c91c547c1c280.jpg",
+                "paste-0afc6a2cdc456333fc3af97d61164d0caffa3129.jpg",
+                "paste-0b3f054a4d93daffca34259899406eac0527c6f2.jpg",
+                "paste-0b8b9562c044a2d5f5c933ddf61cfb2fe2736097.jpg",
+                "paste-0bfbcfee9405a992ae4eb33018bccab2e8816c9a.jpg",
+                "paste-0c0615c3ec44f42fe5cb5abb1175a7f68f6051b3.jpg",
+                "paste-0c62d9fc652a83aa7634b7dd19ba03669a62a7b8.jpg",
+                "paste-0d64c11e441c8bd0d273a68478facfece4db4742.jpg",
+                "paste-0e625d7d2d3f6ff35bec78d7a0383bf833fd01f3.jpg",
+                "paste-0ee2cbf90fcd4190587b780f965350332064b651.jpg",
+                "paste-0f58ed329e7d7869cd6f4efe08d613fc3211c609.jpg",
+                "paste-0fad19067c6dce669d335a3bcafa259efab4b431.jpg",
+                "paste-0fe72d0f1a48ac74f76b325cdd8cb2f09797873e.jpg",
+                "paste-107a0f79c13a950c8baa4be52e26356bd55f5e39.jpg",
+                "paste-1230c4f1b8dcf31185a80cb9703dcf1c6d97316b.jpg",
+                "paste-12ec62ffd5d7ec110ad039d48524c3d733a9a8f9.jpg",
+                "paste-135f87383e70cf6c4eeb9bcb0edc4d9af855f836.jpg",
+                "paste-13d5719460ac137a78719ee51f3ac155dd7c0611.jpg",
+                "paste-1404af68018db99c42bfb7949f8c511f76ffbb23.jpg",
+                "paste-140de016775f231bee7aeb7b5e3bf60bc15dcb15.jpg",
+                "paste-1519fe5b55309a91a6fec5ae222dee9171b2f4f7.jpg",
+                "paste-159ac7a06179aa90f4a3569b3a04f6a53fb76b12.jpg",
+                "paste-15ec09aec810027d870a5638fc416a59705f97ed.jpg",
+                "paste-16009674c618df1748791ad21d5e7d63ff54ee58.jpg",
+                "paste-1627a9a6550be1920b9ec23027b2f581c636911b.jpg",
+                "paste-1693adea64ca7fa2ce65a3a349ee734c2e5cbd72.jpg",
+                "paste-16c4505b4516d87a326e7cc7162e39fdcd8f34ef.jpg",
+                "paste-171e1827fc6960fb7780d865cf73394f271a37cc.jpg",
+                "paste-17340be8d0547c5ad9cf08dead804675e4283347.jpg",
+                "paste-1aa251545c9a1a65e6f4a597bb6ad3e34e43b6ff.jpg",
+                "paste-1ab431e505f93d803366785eda3e140c0ea876c1.jpg",
+                "paste-1cad2b400e6683836dd9228cf0320f0980450d51.jpg",
+                "paste-1ccfb6388d6ceff4fecc1ab98bc478decbe8af30.jpg",
+                "paste-1cda58882a2cb4023b3f64b207706537505b2a7f.jpg",
+                "paste-1cea22fa99ff5bd106bf169eac0105c436fbb83b.jpg",
+                "paste-1d3b8f7cb72245810e23c547092f3fd87a934b10.jpg",
+                "paste-1dd2deb821d8f1b357880ebd9ce8df3724ff2b6a.jpg",
+                "paste-1e608259eb07ccaf651b0e60067f756b6691756e.jpg",
+                "paste-1f33f40c8127b5f523c7007ab52ca273002a3b26.jpg",
+                "paste-22bdedd94ffd065909ba5bcad90b04deb4322a0c.jpg",
+                "paste-22ef4561f3d445b119bcfdd51900d0502c909f26.jpg",
+                "paste-243efedd5d3e5722f75c81832f98d55c5166fef5.jpg",
+                "paste-24d5e64001c09b434074a1e70faf1880a6762d8a.jpg",
+                "paste-2519e6dcb8a0a5f232bed19b779f2501112740f8.jpg",
+                "paste-254da8f580346f5c7603aba1cee2e01202d50d5d.jpg",
+                "paste-25f409ce8f890d05651ce9d15563508b5228122d.jpg",
+                "paste-26158277d766323652fc62ce1e2877521e84c446.jpg",
+                "paste-284254930aa6ba62124bff8249229c2cdd55867e.jpg",
+                "paste-287b46d6f29a7b0bacb81eeaced90b51ef794f24.jpg",
+                "paste-28b89d630ee542358db6f5e68f164ee251f6eab7.jpg",
+                "paste-299c67c21a690392c1ee7786071a6bfffa965da6.jpg",
+                "paste-29a96a67540b75b175f8650f4e1571ca18461f6d.jpg",
+                "paste-2a5363b4f4df7ddd9be24d5e30a87fc9def6c4db.jpg",
+                "paste-2aea48d07e5a2c89b202d94063a6349fe644a398.jpg",
+                "paste-2b5c4605217dcd3beab26aab2bae47b60e2a810f.jpg",
+                "paste-2b74284a22696e8abfae3f677199fc95e5b4ac19.jpg",
+                "paste-2c6f4c05ba6dd8cdc24b08e4acd0ef83fcb91fe7.jpg",
+                "paste-2dbd3781419dd5bd5bbbd434d4e8b9a4b2d8a72a.jpg",
+                "paste-2e1ed02871d9cef838f3732033dcdd0cae061479.jpg",
+                "paste-2e74d17de6b0ab13a97579b5a352346ee5d0a4ce.jpg",
+                "paste-312a034c2f73f046eedb1b0328159dde2005e3e4.jpg",
+                "paste-33d5a5532149a27d580a4f38bccd87f273ebddb9.jpg",
+                "paste-33f4bd0a0491b24d658921ec1b3ca2e6e8e88516.jpg",
+                "paste-33f4ff7a1144e96011cffb774f4d9357efbb30d8.jpg",
+                "paste-345b358bebe8c6c230e9850d303743cd21e50384.jpg",
+                "paste-34d491c3f5452cced3b7ae6d77739c6aaffbe8cb.jpg",
+                "paste-354e7b00248405292314266d38f143b773fae2b3.jpg",
+                "paste-366928ad856a1bb60bf83a36139deb1b8873877a.jpg",
+                "paste-3714df5a38821153203aa8c0909c29383051d5d1.jpg",
+                "paste-372f2b164966e2b721b549daa86b478da3bfd73b.jpg",
+                "paste-3777b08d5488b8572cdb0df27e391cc018dcddb1.jpg",
+                "paste-3814d999a5ae0318b914c8fe842103cbe1363cfc.jpg",
+                "paste-3abf959ef977afcd0213ea3ff03747f5a1e950b3.jpg",
+                "paste-3aca633681d100796b3e9c1f80992d67fc2037a2.jpg",
+                "paste-3b1e231d11f0d0c3774aef7eed44b590e20d28c2.jpg",
+                "paste-3b608473bfe169cd24720d310d80e42d8bd25e36.jpg",
+                "paste-3c17a9e41b9a789165a07ce47c1ced91ad2418ec.jpg",
+                "paste-3c547aed482d7b2b94a3248f8ca76c48ccc56f7d.jpg",
+                "paste-3d38d6e269f10fc8a63cc59bb0861640f6cc53e4.jpg",
+                "paste-3dd280e7f37e6016ad517f052882febcd460e8aa.jpg",
+                "paste-3e68860dea3701cc4451ebf13cec5db95ba1d3a9.jpg",
+                "paste-3eb4c45f4c25b2944068d7199d9939a6be42bfa7.jpg",
+                "paste-4079ab5cdee0d4435920caca7f9f845e26985764.jpg",
+                "paste-409f49bbd1e217bc2bbaabe37e05b9ca8aab3c72.jpg",
+                "paste-43013869ea8cb7f8cda90dc61cd62890f7c5d2bb.jpg",
+                "paste-4329c7d10186442fc1cad69605a6f4223a25730c.jpg",
+                "paste-451bbe80dfcf454964bb758ffd2d6c60920053c0.jpg",
+                "paste-4599e352a2066045fc4851df50643b2c641a8a7a.jpg",
+                "paste-472eba71038417a94c4b3a8e49cf0f8dae3da047.jpg",
+                "paste-479d9dafc0ff2981849e9b3009d7476632952a92.jpg",
+                "paste-47b2aafec134dcc13f6a4c0aef1fbda51b7cd38a.jpg",
+                "paste-48564d60ad9077e4513280b6e9a33e3361b59dba.jpg",
+                "paste-494647d559a031eaabd014092b1f340aed0e44dc.jpg",
+                "paste-4aef69993dddc0f343468f5f7d8737374d4d021a.jpg",
+                "paste-4c0d9635e5bba988e1dd6c13d4fa184954072307.jpg",
+                "paste-4c1c2667efb3fb11a6124b872cbb4693db70b0e0.jpg",
+                "paste-4c8a90e440449178c44d9957abe68ab93d7af581.jpg",
+                "paste-4c90948a0a2a95bac48416a9d1f14054f55504b0.jpg",
+                "paste-4ca65a8aaaa8668c29dd67b91631d5870c3b197c.jpg",
+                "paste-4cfdf1c6006cba6a9956ee11971317e28b536913.jpg",
+                "paste-4d0cdf473b1547fac73be243690dedb138382983.jpg",
+                "paste-4e0f5e593bba03d2019c9f76c338006fea89cb53.jpg",
+                "paste-4e792e7db751905f31ed44b5f7ba7e8d0ee96cab.jpg",
+                "paste-4f33defa116b604747bbc91efe401d2bba72a3db.jpg",
+                "paste-4f6150358da9f05bfd0a8a945334bda1d4f623b0.jpg",
+                "paste-4fd4522c92ce8f0ae471836a926958c72ab1cadf.jpg",
+                "paste-500c8f51234897dcbaa1c8ccb7aeece70a182151.jpg",
+                "paste-51df6728d8ca17227ceee65f37124f222d4cfb6f.jpg",
+                "paste-5242f226dcc22bddfa82951728736a4f1e4a77c8.jpg",
+                "paste-5339ce35d05d537625838cbc2cdf265089389100.jpg",
+                "paste-55266eff57e427cc3a6215ec918b2dbbf4c54b2c.jpg",
+                "paste-5605600c058d22e71a0b5aeb835b8698f8b0b8b3.jpg",
+                "paste-56479c7dc8d17fe183298246e8f1de364b7587de.jpg",
+                "paste-57716d656ffaa142f91fcfedb0d90548c7d20b63.jpg",
+                "paste-577617cd694910b34ab1ea0e50768efeb9682102.jpg",
+                "paste-58a662613aa4ca94ddf7b768905f37a9cad61d2b.jpg",
+                "paste-58b08a65ce4bc2e39f7d4d5837c96b65803718a2.jpg",
+                "paste-58d55595cadfc786fca1431b78319b9a81b29d9b.jpg",
+                "paste-59466727dae5ce67a90579ee0412ca6afd9d601f.jpg",
+                "paste-5a20118d21dbc2b8b053f66c3de331a4e4d2e61f.jpg",
+                "paste-5a4d4e81c72045adb4fbe308c7b1735a021b7db8.jpg",
+                "paste-5b0e21425668a7d949ba58f2dcbd113abccea9a3.jpg",
+                "paste-5b4ebd90dd9a15fbf257b3378615f8bc444d3564.jpg",
+                "paste-5b85d893b6a6368c3bad618693a1f77663795212.jpg",
+                "paste-5bb7e5f8bf9497f17254503f370c7e4f04e9720e.jpg",
+                "paste-5cc1bc7ad9cbb07b59aaed0720bd353bb504e96e.jpg",
+                "paste-5cc69b89e2999185add7e2b763bdc2e70b6daa6b.jpg",
+                "paste-5cd4f6f9e742d6a6a9adb905e6478ff1a8d5a695.jpg",
+                "paste-5d1ef262a7265ed1e07c8a6ddb1554ef113a520f.jpg",
+                "paste-5dec831c56865ed1effcda6cfa6e39703d77d90b.jpg",
+                "paste-5e3089e431ef9d1cd5686769e6f1a7b1233ed96f.jpg",
+                "paste-5ea1b0b23e6c1811bee38dae771cb3b1e9236510.jpg",
+                "paste-5ec5ef4d6e81368a089182d4602e7d62a35f3ad8.jpg",
+                "paste-6139a2e01ebf2cc11fce845aa08fc6ba2d9375c3.jpg",
+                "paste-61f3d9e3a7c4fa9b9e316bfbe5876efe70c4f193.jpg",
+                "paste-61f53b2af164db3e06a85ffdc0c4b33a76f689b5.jpg",
+                "paste-6210f45b756f5f920b6a86d579d25b510ebdd8f3.jpg",
+                "paste-623a535d1f3f408bcb432243b48fe7c947c3639b.jpg",
+                "paste-626d8fab0af827c7069e0361af149549fd3062bd.jpg",
+                "paste-637359325772a72d2a8c3955ee9fd7cea8c6d425.jpg",
+                "paste-63e0f963d60c185c0ecc5dd4992a3b9276e98b55.jpg",
+                "paste-63e233d65a5cc24e8c95c387e9d418c53f121f87.jpg",
+                "paste-647da7d454ef96107e42939cf7e8b3920b16af2e.jpg",
+                "paste-6496f8518c15832fc8c5e1ecb29dab89ee2e01dd.jpg",
+                "paste-6528e9f04fdd8b31992e90062f3d9ef557d9ddaa.jpg",
+                "paste-65e6c8849080331dc5d914e364ae8097aa018990.jpg",
+                "paste-6637687940827e2b51dc56858cf97d12e82cbb4f.jpg",
+                "paste-68b8369f56d95285950ac7e74ebcfd96b739bc60.jpg",
+                "paste-699f49a259825de01173cb04ca04cde0922070e7.jpg",
+                "paste-69f86349f1e5bd0f561d5f19122920e7a6e6f89c.jpg",
+                "paste-6a724117c9cb1ae30b5abbe10d3c282bb59fda9e.jpg",
+                "paste-6b1570d353e55d9d26d55adff3fd6217d704998a.jpg",
+                "paste-6c225931b90ad12c6739b64e3baec0b87b779c3f.jpg",
+                "paste-6c2a586c932b04ce981b2e650fb4c1baf4b1fad0.jpg",
+                "paste-6e2b1d370d4608b380e0fd1423c11382ec52f19d.jpg",
+                "paste-6ec0796c5b4038eaf2128163d9d4a3f86a284dda.jpg",
+                "paste-70ddc56f1826a0e7ac2a352aea815615bb150d56.jpg",
+                "paste-70eba387f2b8d3028725329166126bce12cb63cb.jpg",
+                "paste-710628de89c67fbb56d9fecd1b3ea6c15950ba3d.jpg",
+                "paste-72bab908c7ab11cf0af3d7adf8c0ab011919bae9.jpg",
+                "paste-734062cd9102c734c3d9ce1079b38915f3b77e2b.jpg",
+                "paste-73adc0d58cf23b68f09ece6b033db8a189be786d.jpg",
+                "paste-74e466f6e0630e87656d9f4856de030f680490fb.jpg",
+                "paste-7573a2db84a78fa83921fa11e01df42f654c2538.jpg",
+                "paste-759fa1d5f14afbe6e91109896a12cecef61759c4.jpg",
+                "paste-76c592f22e4e64669ddda1513d681086ed32e843.jpg",
+                "paste-77540af40176f43ad075a5bff41afad7e6311757.jpg",
+                "paste-7833cba4ff3595a326918aa9e184749f79860886.jpg",
+                "paste-7a11f184738bc9d1d623da2c24882a5bb643aa14.jpg",
+                "paste-7a22951ed0a024cba732711b9c1a3c3da1a526e6.jpg",
+                "paste-7c0a3c331a434868dc104d79107373989e1769e0.jpg",
+                "paste-7c526fcf5f4b0304ba65b0ac8516aedf22a47f39.jpg",
+                "paste-7d1ddd878478da279b75ad8ae627d502890abf23.jpg",
+                "paste-7d92af87385b29c31c009602360226373784614e.jpg",
+                "paste-7dec6658b5473fb01f39823085d8e3bfd7cc364f.jpg",
+                "paste-7e341e312fc1fe7a4189a82dee4904878312e4f6.jpg",
+                "paste-7e714d250472c41466c27931e79aa77190016800.jpg",
+                "paste-804a802e849d7853aad6ff929a64aca30e4f9958.jpg",
+                "paste-807f535d81f46d2bc4be19066e183d30fe563462.jpg",
+                "paste-808dd2de45884ba806670585c9cae7245abb07ef.jpg",
+                "paste-80d3efb832e3696ddcfbea9e2a1e1d2e6c445d4a.jpg",
+                "paste-823ddb643bfdf43ef27a67c0e9ca4dc454ed40fb.jpg",
+                "paste-8323deca8ca5f9e7966432170b62a19f89f76f57.jpg",
+                "paste-8355653ab1cf7d28ccf4d115e046c673bf521a03.jpg",
+                "paste-838560cc975fa2107e455847f5cee628d2c2a392.jpg",
+                "paste-838c7eea1b774eed2e8a6bf29a82ca841f03df1f.jpg",
+                "paste-83f5d0aadc5a43f524233e07be69beb2ae7c0a46.jpg",
+                "paste-84554a6156e73931bfd7a126cdeea2f5d2bf4e8c.jpg",
+                "paste-85a23b6b894c3579aefc18bef8cb63eba271fc4b.jpg",
+                "paste-866a94da6ecc00d17b6a3363859b0528e398ebe1.jpg",
+                "paste-874f9c7bfbce102095f87af21f5c18eff9748fb8.jpg",
+                "paste-87aa98e3482fa4474d894f4268fd29a763ff13aa.jpg",
+                "paste-890c6722a8d36433c2629da9918e300708758f41.jpg",
+                "paste-8977116dd39813e3c142506d025ea959a6ce185c.jpg",
+                "paste-8ace17f2687fc89773c412bd4fc889d2cc242c16.jpg",
+                "paste-8ae97ac150186f327ccdef4ff74660a82de36781.jpg",
+                "paste-8b62436d56bb0148f4b1ca3235636f6a117102e1.jpg",
+                "paste-8b708dde28374c741454646cbc3d0307392401c0.jpg",
+                "paste-8c8a5cf28450dcba368496c7ca10a5990bd7887f.jpg",
+                "paste-8d19c8d065fe50d63d7f6a8879db788ca1abc26b.jpg",
+                "paste-8d609d1ee557cb0b21037e53f0f6208659be4409.jpg",
+                "paste-8f4e47c0969358038aaab05b247e64c13158498f.jpg",
+                "paste-901a666435eb30d816fc2f43962d4bcea953f1f9.jpg",
+                "paste-905c26a4e53e93a3113dff7f38c4e8d1e2c42932.jpg",
+                "paste-90ebb6efc4d9752b66b668ad94170220c7e1a3c9.jpg",
+                "paste-9171926690023374f7539e835999d1203041b025.jpg",
+                "paste-91db29391e472e0da405833b9904565ea892b5c7.jpg",
+                "paste-921f3727ba73cf25fcab179c1b97ad92913bffee.jpg",
+                "paste-92a7289ddbbe7e9e2d412e9742ed4bbce1a7b4bf.jpg",
+                "paste-92ba64139daec6590f97283b6320bab9b377931b.jpg",
+                "paste-94395968f95306eb4280d0511c440117599c3c9f.jpg",
+                "paste-944606ecfc2ce208f2887eeb59f0c36b114eb83c.jpg",
+                "paste-94872ffcf3a05ccaef9f0d6ee2e37cf825f48b29.jpg",
+                "paste-95540318a737cdc37de3e82e7628b95a6af3e574.jpg",
+                "paste-95f5cb9a37ce6d417864bcfe1558fdf91e11ba09.jpg",
+                "paste-97951f0d3e58c1dcc6a7fa87c548799bbd1b92b6.jpg",
+                "paste-98bd2833752b67ae08c4dac08cec3d5072d97211.jpg",
+                "paste-9907f52e0b5b9979cfd8c3ee7ab4d1152820053a.jpg",
+                "paste-99dd5463bf7d634987f1dfad3a1f0b44d403698c.jpg",
+                "paste-9a3afb6819fb80f2f5e5e4d5844be53748447e7b.jpg",
+                "paste-9a51744ff2ecb2aefced4608e4d5d1f60e50b647.jpg",
+                "paste-9a5ecb035662a198781eea2bb22b41c2b4bf2ef1.jpg",
+                "paste-9a7beac8d9290fe48248143cf4b55dfd9f358903.jpg",
+                "paste-9a9217cca09245013ec6d508f75f59f220e6800f.jpg",
+                "paste-9abd86c9c836f7d9b49fc6a5cb6391564d99a416.jpg",
+                "paste-9afce64bdd6acb71cfdced6230ac0b71b7cb89b0.jpg",
+                "paste-9b51a8222c1aa536632632e2ff859446d1e4a87d.jpg",
+                "paste-9bb231b9fa9ead2b3108bd09b11ba46f3ea874cf.jpg",
+                "paste-9c8bcaf454cd150e7bb5cfd769ccb797a18525a4.jpg",
+                "paste-9d0926bfd9133774beb5693dfb2177940d6266c7.jpg",
+                "paste-9de7e76c64a24cc9bc905817bda168c2763895d8.jpg",
+                "paste-9e4a51711b46a84f155e09777a913bfa9d47e1e3.jpg",
+                "paste-9e5077c15a62e75369ac76efd7fbb969361648ce.jpg",
+                "paste-9f2710d7b32554a7cd3cd16cbb822b2d4b190d80.jpg",
+                "paste-9f34f99a1f6933065af9a331ddfa60796c7bfe8a.jpg",
+                "paste-9fc3ae48bf8abb2757bfbb1a98feff0e68adf777.jpg",
+                "paste-a15b914fbf20165dd7121b86dd8b76a14c204766.jpg",
+                "paste-a1ec595ddcecc4637d441a01128e8b61fe154982.jpg",
+                "paste-a254537ffed4bdded1b971c13a849348261e5cc7.jpg",
+                "paste-a2e6614251aef82f15afaf5f670a051d2b500535.jpg",
+                "paste-a32b301216356ad224ead92488445014937768e8.jpg",
+                "paste-a45a6df0254198afa9a18415f8520045cb17967a.jpg",
+                "paste-a53eb234e02eb997703cb3bd81e48024dd1972e3.jpg",
+                "paste-a61e9b9bceb46d43c110fbca61b9e4be3ff3ca34.jpg",
+                "paste-a63dc0fc3f671068c0e56cf14a8ebee545b063ac.jpg",
+                "paste-a82efa3b9752a9e85b7fb39492a1400192102ec6.jpg",
+                "paste-a9ae5a5480fefef19fc007f64df07191381be931.jpg",
+                "paste-a9f4d3fe9166e122734cf090cad81a986b1df940.jpg",
+                "paste-aa7c20bc358319ac86a10622a2c5b9d2472246bd.jpg",
+                "paste-ab23c85dd8707b9eeb23fdde032bc3c947df1738.jpg",
+                "paste-ab7651bc87f183c21eb3f5e719ad589491448ff2.jpg",
+                "paste-ab97ac130828378f15b4dc8892d03e73f79e73f4.jpg",
+                "paste-abd3389b6d425fe921bb6b9d6a09f0e3a9fc170f.jpg",
+                "paste-acf3141bd9477002a408cab4386f3180615a6ba6.jpg",
+                "paste-ad5765ec41ce019c2de014706ca5a5c4d33768a1.jpg",
+                "paste-ad838e37a558769f89dd6d1f59fbf9f923a88eed.jpg",
+                "paste-ae68642e4d9f9fbf39d2ff12207b830f4610eadb.jpg",
+                "paste-ae9c2615026981070b2d0ed699c64be860ad6c83.jpg",
+                "paste-af1b7e153728452c578c7f0f2fed0bb8f43fde41.jpg",
+                "paste-af6a68b01154d0c4c6812cbde5a4bc180ae0ec72.jpg",
+                "paste-af6d4e6034dd5fcae0dcd52dcd82c752a0ad9832.jpg",
+                "paste-af9209b9f29b54f765664cec6786b3af61b7e02b.jpg",
+                "paste-b1d140d3e9dec1d2d2df6cb28e6ebcb6239e0239.jpg",
+                "paste-b3463866c769c30aa63ed24fecd5be2e111b8f6e.jpg",
+                "paste-b37c65065a41e354d907161e3e433528f2e0ecb1.jpg",
+                "paste-b68a82b24d4958499dd9fa9488c4b49c9ffa496e.jpg",
+                "paste-b74dfc4bce5a852eaedcb767cb8c29869041f31b.jpg",
+                "paste-bae20974fc5e231731edfb3235c627f25b725cfa.jpg",
+                "paste-bb1208737c384910356af39058a86a6c202384e3.jpg",
+                "paste-bbef71f6d5b1c9b5e719dc939dce3b1e831ce8b9.jpg",
+                "paste-bc55af734aa997644485fef5021896b035ae596e.jpg",
+                "paste-bc5d56146bc021fb33c1c863e9df7ed79fabf967.jpg",
+                "paste-bd5f9c095fa7741f8b14203879a312eca983b469.jpg",
+                "paste-bd92b9a8d58164ef5b8df75e8d2c349f7bdb0d1f.jpg",
+                "paste-be29e8280f22416484e1487e79462cc72e5999a5.jpg",
+                "paste-be917143b4ad1cf39145f2f840bd77322962b352.jpg",
+                "paste-bea22e4b0200f49c534ecc81de33136929a14b90.jpg",
+                "paste-bf41be51df86f387ccfaec80a02b4452088476a0.jpg",
+                "paste-bf7c3584e5aaf1809d66c417b44ea3e02cae170d.jpg",
+                "paste-c0177d42ce0261466497f9db38b2a0a3a387fc4d.jpg",
+                "paste-c034a67375f20b7eaab4f8e67474e610e572a56d.jpg",
+                "paste-c03a122a5f757820cf71801879eeac1f3f4a5eb0.jpg",
+                "paste-c0e312ebd6f47ee0437119f48165ade5fd4b53a0.jpg",
+                "paste-c12f29ba272cabe9f2f9ebf7670e3d0c9887a890.jpg",
+                "paste-c18ae24dac95861f1f4f5bde92a1d3b54118f711.jpg",
+                "paste-c2851ffe6024d3732e883254b143cbdfc4b82e47.jpg",
+                "paste-c3216dd36662e138d61c925c5959b0436736c8ec.jpg",
+                "paste-c41bc5e521bcb869a4dfadf18b18f0ff6780ba6d.jpg",
+                "paste-c4c99c397a5a52ad65ed236803fc2847921d9d1c.jpg",
+                "paste-c51894eb7fe426c400d2d6e74799d3db0b05f417.jpg",
+                "paste-c5a5ee90b11fecd35ec9c3ea460f7dc8f1c7ca9a.jpg",
+                "paste-c692e71ea821c89f5454e044d5bf19a400f0d9ef.jpg",
+                "paste-c71e9fe9f0f087b92c2a4a14ab9e14c2b29b955a.jpg",
+                "paste-c7415f027602c9743fe05c3e1b38aedf4a4e886a.jpg",
+                "paste-c7c4f7f195286e138fd1096b091459055376ec7e.jpg",
+                "paste-c7f8dbde92f42db627409b6df611624f5380ab25.jpg",
+                "paste-c8538fdd16d51275c39287b635961790a28c3487.jpg",
+                "paste-c856245ede63c36bc3df4debafd8e8ac60725ba4.jpg",
+                "paste-c8c5f5e355979ffb2a16483d15387fda03898be0.jpg",
+                "paste-c9512c83f2fc639152754e0569f63e376fdaa3c3.jpg",
+                "paste-c982e3a864a053cb5dd580030ca80be76322050d.jpg",
+                "paste-c9af1ecb3f94eb3249c78b21b5409300cc8f48f7.jpg",
+                "paste-c9e549e55242b297759ef72c8a31e852b96d8483.jpg",
+                "paste-ca0b464aa2ada6767193f7314ece9edd0f5736b7.jpg",
+                "paste-ca6fa0aacccd02d8612072d2689a7e4a371ceedb.jpg",
+                "paste-cb03380a3bfccb2e3bbe99766d680ff2e9e59884.jpg",
+                "paste-cc52db12f9adf43ab113f2b38eb819ccd2f73f53.jpg",
+                "paste-ccb2dc38d723c939c242088be21f4728a215d102.jpg",
+                "paste-ce30557a00206b03ed56cd81ead29a0128295241.jpg",
+                "paste-ceb3be39a74ac7854e407da27a80661654baee2f.jpg",
+                "paste-d0c5afa54f1264b7258c978d4a7876ed0e4a64a4.jpg",
+                "paste-d1e0124663fb33f2f41a57173eb760822c361726.jpg",
+                "paste-d213f22943b63096cae3777aafc0337bbc38f0d6.jpg",
+                "paste-d36c6b132af976d09f829711b3de9b7d9a04ef58.jpg",
+                "paste-d3f5884ba4ddffe2fa4d891adef07a9b959fe90f.jpg",
+                "paste-d58d61dd731c5193c3d010aeab6a51b85ac9839c.jpg",
+                "paste-d7254b812e2bcd3f2bc1ca229ce15bb2d0a3928c.jpg",
+                "paste-d7401feac9739738faddb6ca6c2126d718ed8930.jpg",
+                "paste-da720ebe7cc093dc864315ed8252027bf1fb0b19.jpg",
+                "paste-dbbca9de99541e087ee907cb3cd7b09a9de40a27.jpg",
+                "paste-dbdce4efd2d8bffd2654eb21ac304dee60d0d89d.jpg",
+                "paste-dc8000b36716f92221b82a8c42052bb06929bbc1.jpg",
+                "paste-dda832bc03c365d40a555f14f363c6c34608d737.jpg",
+                "paste-e03ca267077410d5baa73b29ebda16ac38b9bcbb.jpg",
+                "paste-e0734dbb49ec8855068e22901a2c177a8ca905c3.jpg",
+                "paste-e255c27f0bb44af8385394167db2d3156d6ee6b6.jpg",
+                "paste-e296b61eb429f4a65dbf0cc24a21842ba332c051.jpg",
+                "paste-e31c02ad338b51075e7eee8512a54e4a14b4f947.jpg",
+                "paste-e38aa05f6ad55de6fe98a3ca6d7e6fd88b6dae14.jpg",
+                "paste-e49ee5f079269f218a92dbf8abbae308f4ed8487.jpg",
+                "paste-e5c41c0399a55885694af5dbe177f2fb4e46b60f.jpg",
+                "paste-e622d2a4e63d613374fe323324607306ed9ddd41.jpg",
+                "paste-ec0f700ace0090ecdbd41d1ac5881ee796183844.jpg",
+                "paste-ec1e44ee94a0f3b32a3e655a220eb88384d06586.jpg",
+                "paste-ec414049faf61dbf5304c35da702de447e4222fd.jpg",
+                "paste-ec93922aae345a4356c7d75ce47f03f56245e634.jpg",
+                "paste-ecc719fad70fa07159acd2df383b8cc3db222466.jpg",
+                "paste-ed488754f940f09baaf617d90843eab61a32b1ec.jpg",
+                "paste-ef871d9d09f90aff87510002b06ebff051b84912.jpg",
+                "paste-eff590b2efb71b24a6a5d3a87f2d4c23985d3631.jpg",
+                "paste-f03fd345be44e173101e31f264de9d86d0c4ae6f.jpg",
+                "paste-f07859c0a8c274b2125bceb389f5a7236538e4a1.jpg",
+                "paste-f19a1f86d501b464dbcb1c6eb002492d47ffe998.jpg",
+                "paste-f2ab5848d4f96c77229c572dce6b8befbafc7c9a.jpg",
+                "paste-f33d6c061dc7feb69b2360a84fd0756441cefe24.jpg",
+                "paste-f4eebd23f1018246fb1b20d0eaf0e0503da35009.jpg",
+                "paste-f5c1e99d7037edb7eb58ab79257192fc0ee97bf7.jpg",
+                "paste-f716d458a78b78407fd81ba0003cf1b93700fd70.jpg",
+                "paste-f7b222cfeea6e03e713ea229bdd7360b19914fd1.jpg",
+                "paste-f830fd5fb78cedb3525070aec8533be93b7765e0.jpg",
+                "paste-f8b4c61ecfb3fac0495ecd48fd046123ec049b45.jpg",
+                "paste-f931ec9f3ae477f0cb1d976c1c61e7ba0f150f2c.jpg",
+                "paste-f9f64e2de0ff139cb8a83809d740b6e6d376997c.jpg",
+                "paste-fab4e4815c95b89c290ffc1d88acdd3f2191c0f4.jpg",
+                "paste-fac6673e55e3779757bf8995cef4b2d6b95c5a30.jpg",
+                "paste-faf7d42fe6c9e696ffbc1d9eea5c95d121a663a0.jpg",
+                "paste-fbab4d8d3831ead947e31bee9a6f6fbb755e19b1.jpg",
+                "paste-fc062530ef4ada4c257f081fa0c105caf0b5e7eb.jpg",
+                "paste-ffde7d205c42b60f60d026e68fc0373016f5bcd3.jpg"
+            ],
+            "name": "Computational Geometry",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Affine subspace",
+                        "<img src=\"paste-24d5e64001c09b434074a1e70faf1880a6762d8a.jpg\">"
+                    ],
+                    "guid": "J-3Dn3;v6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Metric space",
+                        "<img src=\"paste-dbdce4efd2d8bffd2654eb21ac304dee60d0d89d.jpg\"><br><img src=\"paste-e255c27f0bb44af8385394167db2d3156d6ee6b6.jpg\">"
+                    ],
+                    "guid": "Nw:D2+)Cbr",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Convex (hull)",
+                        "<img src=\"paste-dda832bc03c365d40a555f14f363c6c34608d737.jpg\">"
+                    ],
+                    "guid": "scr6my(uQJ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Simplex&nbsp;",
+                        "<img src=\"paste-d3f5884ba4ddffe2fa4d891adef07a9b959fe90f.jpg\">"
+                    ],
+                    "guid": "nsD],B??h!",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inscribed Angle Theorem",
+                        "<img src=\"paste-4aef69993dddc0f343468f5f7d8737374d4d021a.jpg\">"
+                    ],
+                    "guid": "DM91kS|+p(",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Incircle",
+                        "<img src=\"paste-ceb3be39a74ac7854e407da27a80661654baee2f.jpg\">"
+                    ],
+                    "guid": "p[JiSKZ`=-",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Circumcircle",
+                        "<img src=\"paste-6210f45b756f5f920b6a86d579d25b510ebdd8f3.jpg\">"
+                    ],
+                    "guid": "NKB*Sp$SyD",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dual graph",
+                        "<img src=\"paste-7d1ddd878478da279b75ad8ae627d502890abf23.jpg\"><br><img src=\"paste-ab97ac130828378f15b4dc8892d03e73f79e73f4.jpg\">"
+                    ],
+                    "guid": "wv)J}`ytz%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Euler's formula",
+                        "<img src=\"paste-1519fe5b55309a91a6fec5ae222dee9171b2f4f7.jpg\"><br><img src=\"paste-312a034c2f73f046eedb1b0328159dde2005e3e4.jpg\"><br><img src=\"paste-80d3efb832e3696ddcfbea9e2a1e1d2e6c445d4a.jpg\">"
+                    ],
+                    "guid": "G;)A4gV~60",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Euler's formula corollaries",
+                        "<img src=\"paste-12ec62ffd5d7ec110ad039d48524c3d733a9a8f9.jpg\"><br><img src=\"paste-c71e9fe9f0f087b92c2a4a14ab9e14c2b29b955a.jpg\"><br><img src=\"paste-f7b222cfeea6e03e713ea229bdd7360b19914fd1.jpg\">"
+                    ],
+                    "guid": "hYU]CqbI}P",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RAM",
+                        "<img src=\"paste-e5c41c0399a55885694af5dbe177f2fb4e46b60f.jpg\"><br><img src=\"paste-55266eff57e427cc3a6215ec918b2dbbf4c54b2c.jpg\"><br><img src=\"paste-92ba64139daec6590f97283b6320bab9b377931b.jpg\">"
+                    ],
+                    "guid": "JXO<p?f5Lu",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "O-notation",
+                        "<img src=\"paste-0b8b9562c044a2d5f5c933ddf61cfb2fe2736097.jpg\"><br><img src=\"paste-af6d4e6034dd5fcae0dcd52dcd82c752a0ad9832.jpg\"><br><img src=\"paste-c856245ede63c36bc3df4debafd8e8ac60725ba4.jpg\"><br><img src=\"paste-f33d6c061dc7feb69b2360a84fd0756441cefe24.jpg\">"
+                    ],
+                    "guid": "y;PhWYkaF5",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Comparison sorting time complexity",
+                        "<img src=\"paste-1404af68018db99c42bfb7949f8c511f76ffbb23.jpg\"><br><img src=\"paste-073dfa7ca075f35f5cce5d0590b06ef0cac2e5cc.jpg\"><br><img src=\"paste-9fc3ae48bf8abb2757bfbb1a98feff0e68adf777.jpg\"><br><img src=\"paste-2aea48d07e5a2c89b202d94063a6349fe644a398.jpg\"><br><img src=\"paste-33f4ff7a1144e96011cffb774f4d9357efbb30d8.jpg\">"
+                    ],
+                    "guid": "llSJr@C/6a",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Linear model",
+                        "<img src=\"paste-77540af40176f43ad075a5bff41afad7e6311757.jpg\"><br><img src=\"paste-901a666435eb30d816fc2f43962d4bcea953f1f9.jpg\">"
+                    ],
+                    "guid": "LhD,1W=#@g",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Element test and connected components",
+                        "<img src=\"paste-345b358bebe8c6c230e9850d303743cd21e50384.jpg\"><br><img src=\"paste-d0c5afa54f1264b7258c978d4a7876ed0e4a64a4.jpg\"><br><img src=\"paste-58a662613aa4ca94ddf7b768905f37a9cad61d2b.jpg\"><br><img src=\"paste-372f2b164966e2b721b549daa86b478da3bfd73b.jpg\">"
+                    ],
+                    "guid": "iqPrL$~*lM",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lexicographical ordering",
+                        "<img src=\"paste-ccb2dc38d723c939c242088be21f4728a215d102.jpg\">"
+                    ],
+                    "guid": "oakcVAzREe",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bresenham Line Algorithm",
+                        "<img src=\"paste-c5a5ee90b11fecd35ec9c3ea460f7dc8f1c7ca9a.jpg\"><br><img src=\"paste-a63dc0fc3f671068c0e56cf14a8ebee545b063ac.jpg\"><br><img src=\"paste-b68a82b24d4958499dd9fa9488c4b49c9ffa496e.jpg\"><br><img src=\"paste-5a4d4e81c72045adb4fbe308c7b1735a021b7db8.jpg\">"
+                    ],
+                    "guid": "Ql!S1sKioa",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sweep line",
+                        "<img src=\"paste-fbab4d8d3831ead947e31bee9a6f6fbb755e19b1.jpg\">"
+                    ],
+                    "guid": "cH8K-,lftH",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sweep algorithm for closest point",
+                        "<img src=\"paste-8d19c8d065fe50d63d7f6a8879db788ca1abc26b.jpg\"><br><img src=\"paste-4079ab5cdee0d4435920caca7f9f845e26985764.jpg\"><br><img src=\"paste-e31c02ad338b51075e7eee8512a54e4a14b4f947.jpg\"><br><img src=\"paste-823ddb643bfdf43ef27a67c0e9ca4dc454ed40fb.jpg\"><br><img src=\"paste-ec0f700ace0090ecdbd41d1ac5881ee796183844.jpg\"><br><img src=\"paste-ab23c85dd8707b9eeb23fdde032bc3c947df1738.jpg\"><br><img src=\"paste-63e233d65a5cc24e8c95c387e9d418c53f121f87.jpg\"><br><img src=\"paste-4e792e7db751905f31ed44b5f7ba7e8d0ee96cab.jpg\">"
+                    ],
+                    "guid": "gQPvTO01M?",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Points of Intersection",
+                        "<img src=\"paste-aa7c20bc358319ac86a10622a2c5b9d2472246bd.jpg\"><br><img src=\"paste-0afc6a2cdc456333fc3af97d61164d0caffa3129.jpg\">"
+                    ],
+                    "guid": "D<+0zqur0n",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lower bound on Points of Intersection",
+                        "<img src=\"paste-4f33defa116b604747bbc91efe401d2bba72a3db.jpg\"><br><img src=\"paste-76c592f22e4e64669ddda1513d681086ed32e843.jpg\"><br><img src=\"paste-3eb4c45f4c25b2944068d7199d9939a6be42bfa7.jpg\"><br><img src=\"paste-c03a122a5f757820cf71801879eeac1f3f4a5eb0.jpg\"><br><img src=\"paste-58d55595cadfc786fca1431b78319b9a81b29d9b.jpg\"><br><img src=\"paste-637359325772a72d2a8c3955ee9fd7cea8c6d425.jpg\"><br><img src=\"paste-0fad19067c6dce669d335a3bcafa259efab4b431.jpg\">"
+                    ],
+                    "guid": "D,c:8(Cs0g",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-5"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sweep Line Algorithm for Segment Intersections",
+                        "<img src=\"paste-bbef71f6d5b1c9b5e719dc939dce3b1e831ce8b9.jpg\"><br><img src=\"paste-4fd4522c92ce8f0ae471836a926958c72ab1cadf.jpg\"><br><img src=\"paste-9d0926bfd9133774beb5693dfb2177940d6266c7.jpg\"><br><img src=\"paste-ad838e37a558769f89dd6d1f59fbf9f923a88eed.jpg\"><br><img src=\"paste-59466727dae5ce67a90579ee0412ca6afd9d601f.jpg\"><br><img src=\"paste-e622d2a4e63d613374fe323324607306ed9ddd41.jpg\"><br><img src=\"paste-076afbd1e6e768ae50cc2401a1ae17755059ac33.jpg\"><br><img src=\"paste-0b3f054a4d93daffca34259899406eac0527c6f2.jpg\"><br><img src=\"paste-5e3089e431ef9d1cd5686769e6f1a7b1233ed96f.jpg\"><br><img src=\"paste-95540318a737cdc37de3e82e7628b95a6af3e574.jpg\"><br><img src=\"paste-5ec5ef4d6e81368a089182d4602e7d62a35f3ad8.jpg\"><br><img src=\"paste-f2ab5848d4f96c77229c572dce6b8befbafc7c9a.jpg\">"
+                    ],
+                    "guid": "k}g9AzGMIZ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-5"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Line Segments Sweep: deal with assumptions",
+                        "<img src=\"paste-451bbe80dfcf454964bb758ffd2d6c60920053c0.jpg\">"
+                    ],
+                    "guid": "f9HEtaSOwu",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lower Envelope",
+                        "<img src=\"paste-72bab908c7ab11cf0af3d7adf8c0ab011919bae9.jpg\"><br><img src=\"paste-623a535d1f3f408bcb432243b48fe7c947c3639b.jpg\">"
+                    ],
+                    "guid": "iYWA&9,0*}",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Intersection of two Polygons (existence)",
+                        "<img src=\"paste-8f4e47c0969358038aaab05b247e64c13158498f.jpg\"><br><img src=\"paste-2b74284a22696e8abfae3f677199fc95e5b4ac19.jpg\"><br><img src=\"paste-9171926690023374f7539e835999d1203041b025.jpg\"><br><img src=\"paste-734062cd9102c734c3d9ce1079b38915f3b77e2b.jpg\"><br><img src=\"paste-fc062530ef4ada4c257f081fa0c105caf0b5e7eb.jpg\"><br><img src=\"paste-61f3d9e3a7c4fa9b9e316bfbe5876efe70c4f193.jpg\"><br><img src=\"paste-9bb231b9fa9ead2b3108bd09b11ba46f3ea874cf.jpg\">"
+                    ],
+                    "guid": "QhNr6YG.a2",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Intersection of two Polygons (area)",
+                        "<img src=\"paste-da720ebe7cc093dc864315ed8252027bf1fb0b19.jpg\"><br><img src=\"paste-7a22951ed0a024cba732711b9c1a3c3da1a526e6.jpg\"><br><img src=\"paste-c0177d42ce0261466497f9db38b2a0a3a387fc4d.jpg\"><br><img src=\"paste-a82efa3b9752a9e85b7fb39492a1400192102ec6.jpg\"><br><img src=\"paste-43013869ea8cb7f8cda90dc61cd62890f7c5d2bb.jpg\"><br><img src=\"paste-5cc1bc7ad9cbb07b59aaed0720bd353bb504e96e.jpg\"><br><img src=\"paste-47b2aafec134dcc13f6a4c0aef1fbda51b7cd38a.jpg\">"
+                    ],
+                    "guid": "l),:)EEHo(",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Intersection of Convex Polygons",
+                        "<img src=\"paste-577617cd694910b34ab1ea0e50768efeb9682102.jpg\"><br><img src=\"paste-33d5a5532149a27d580a4f38bccd87f273ebddb9.jpg\">"
+                    ],
+                    "guid": "L+l|X3p^9U",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sweeping in Space",
+                        "<img src=\"paste-1cad2b400e6683836dd9228cf0320f0980450d51.jpg\"><br><img src=\"paste-51df6728d8ca17227ceee65f37124f222d4cfb6f.jpg\"><br><img src=\"paste-74e466f6e0630e87656d9f4856de030f680490fb.jpg\"><br><img src=\"paste-808dd2de45884ba806670585c9cae7245abb07ef.jpg\"><br>"
+                    ],
+                    "guid": "s](SG.2~0@",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sweep Line Summary",
+                        "<img src=\"paste-9a3afb6819fb80f2f5e5e4d5844be53748447e7b.jpg\"><br><img src=\"paste-5bb7e5f8bf9497f17254503f370c7e4f04e9720e.jpg\"><br><img src=\"paste-243efedd5d3e5722f75c81832f98d55c5166fef5.jpg\"><br><img src=\"paste-479d9dafc0ff2981849e9b3009d7476632952a92.jpg\"><br><img src=\"paste-3e68860dea3701cc4451ebf13cec5db95ba1d3a9.jpg\">"
+                    ],
+                    "guid": "e&8cLxNTkH",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagonal (and their existence)",
+                        "<img src=\"paste-73adc0d58cf23b68f09ece6b033db8a189be786d.jpg\"><br><img src=\"paste-04f979ab24e8f54ee627215e99c80344f0029752.jpg\"><br><img src=\"paste-6637687940827e2b51dc56858cf97d12e82cbb4f.jpg\"><br><img src=\"paste-804a802e849d7853aad6ff929a64aca30e4f9958.jpg\"><br><img src=\"paste-90ebb6efc4d9752b66b668ad94170220c7e1a3c9.jpg\">"
+                    ],
+                    "guid": "dP;?sX>p]#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Triangulation (and its existence)",
+                        "<img src=\"paste-d58d61dd731c5193c3d010aeab6a51b85ac9839c.jpg\"><br><img src=\"paste-3b608473bfe169cd24720d310d80e42d8bd25e36.jpg\">"
+                    ],
+                    "guid": "q<dC~Z06{c",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dual tree (and that it's a tree)",
+                        "<img src=\"paste-8977116dd39813e3c142506d025ea959a6ce185c.jpg\"><br><img src=\"paste-287b46d6f29a7b0bacb81eeaced90b51ef794f24.jpg\"><br><img src=\"paste-9e4a51711b46a84f155e09777a913bfa9d47e1e3.jpg\"><br><img src=\"paste-1e608259eb07ccaf651b0e60067f756b6691756e.jpg\"><br><img src=\"paste-1dd2deb821d8f1b357880ebd9ce8df3724ff2b6a.jpg\"><br><img src=\"paste-5cc69b89e2999185add7e2b763bdc2e70b6daa6b.jpg\">"
+                    ],
+                    "guid": "LtzIhIf8=V",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "L-system",
+                        "<img src=\"paste-838560cc975fa2107e455847f5cee628d2c2a392.jpg\"><br><img src=\"paste-d1e0124663fb33f2f41a57173eb760822c361726.jpg\"><br><img src=\"paste-c034a67375f20b7eaab4f8e67474e610e572a56d.jpg\"><br><img src=\"paste-7e341e312fc1fe7a4189a82dee4904878312e4f6.jpg\">"
+                    ],
+                    "guid": "NoGh5O8?/",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-9"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Total rotation",
+                        "<img src=\"paste-af6a68b01154d0c4c6812cbde5a4bc180ae0ec72.jpg\">"
+                    ],
+                    "guid": "ugrOETgxfg",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-9"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Total rotation is a circle",
+                        "<img src=\"paste-af9209b9f29b54f765664cec6786b3af61b7e02b.jpg\"><br><img src=\"paste-4c90948a0a2a95bac48416a9d1f14054f55504b0.jpg\"><br><img src=\"paste-409f49bbd1e217bc2bbaabe37e05b9ca8aab3c72.jpg\"><br><img src=\"paste-9de7e76c64a24cc9bc905817bda168c2763895d8.jpg\"><br><img src=\"paste-9c8bcaf454cd150e7bb5cfd769ccb797a18525a4.jpg\">"
+                    ],
+                    "guid": "ReSez[|y5%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-9"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Winding number",
+                        "<img src=\"paste-9abd86c9c836f7d9b49fc6a5cb6391564d99a416.jpg\">"
+                    ],
+                    "guid": "ABOsd>p.U!",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-9"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Monotone polygon",
+                        "<img src=\"paste-3714df5a38821153203aa8c0909c29383051d5d1.jpg\"><br><img src=\"paste-bc55af734aa997644485fef5021896b035ae596e.jpg\"><br><img src=\"paste-3abf959ef977afcd0213ea3ff03747f5a1e950b3.jpg\">"
+                    ],
+                    "guid": "fSEO//l&!s",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-9"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Orientable/non-orientable manifolds",
+                        "<img src=\"paste-0d64c11e441c8bd0d273a68478facfece4db4742.jpg\"><br><img src=\"paste-cc52db12f9adf43ab113f2b38eb819ccd2f73f53.jpg\"><br><img src=\"paste-0bfbcfee9405a992ae4eb33018bccab2e8816c9a.jpg\"><br><img src=\"paste-57716d656ffaa142f91fcfedb0d90548c7d20b63.jpg\">"
+                    ],
+                    "guid": "w??6_GtSX>",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Euler's characteristic",
+                        "<img src=\"paste-a9ae5a5480fefef19fc007f64df07191381be931.jpg\"><br><img src=\"paste-5605600c058d22e71a0b5aeb835b8698f8b0b8b3.jpg\"><br><img src=\"paste-29a96a67540b75b175f8650f4e1571ca18461f6d.jpg\"><br><img src=\"paste-56479c7dc8d17fe183298246e8f1de364b7587de.jpg\"><br><img src=\"paste-dc8000b36716f92221b82a8c42052bb06929bbc1.jpg\"><br><br>Zbytek tady:&nbsp;<a href=\"https://slama.dev/poznamky/kombinatorika-a-grafy-ii/#kreslen%C3%AD-graf%C5%AF-na-plochy\">https://slama.dev/poznamky/kombinatorika-a-grafy-ii/#kreslení-grafů-na-plochy</a><br>"
+                    ],
+                    "guid": "LU@0Xfv.$7",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "NP-hard, NP-complete&nbsp;",
+                        "This is false btw.<br><br><img src=\"paste-3dd280e7f37e6016ad517f052882febcd460e8aa.jpg\"><br><img src=\"paste-c8c5f5e355979ffb2a16483d15387fda03898be0.jpg\">"
+                    ],
+                    "guid": "pijWkDy0^~",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Visibility polygon",
+                        "I didn't really find a formal definition...<br><br><img src=\"paste-d213f22943b63096cae3777aafc0337bbc38f0d6.jpg\"><br><img src=\"paste-ec1e44ee94a0f3b32a3e655a220eb88384d06586.jpg\"><br><img src=\"paste-6139a2e01ebf2cc11fce845aa08fc6ba2d9375c3.jpg\"><br><img src=\"paste-5b85d893b6a6368c3bad618693a1f77663795212.jpg\">"
+                    ],
+                    "guid": "zo[(vG&>qB",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Visibility polygon algorithm",
+                        "What we want to do is start with some segment and then go CCW around the algorithm. When we're going the right direction, we want to be adding the edges to the stack. When going the wrong direction (based on a sense of \"left turn/right turn\"), we want to not add the edges / pop them from the stack.<br><br><img src=\"paste-0a7ec528a73f7b531bb3d5142eb80f4d114275a3.jpg\"><br><img src=\"paste-ce30557a00206b03ed56cd81ead29a0128295241.jpg\"><br><img src=\"paste-6e2b1d370d4608b380e0fd1423c11382ec52f19d.jpg\"><br><img src=\"paste-c7c4f7f195286e138fd1096b091459055376ec7e.jpg\"><br><img src=\"paste-944606ecfc2ce208f2887eeb59f0c36b114eb83c.jpg\"><br><img src=\"paste-6c225931b90ad12c6739b64e3baec0b87b779c3f.jpg\"><br><img src=\"paste-3c17a9e41b9a789165a07ce47c1ced91ad2418ec.jpg\"><br><img src=\"paste-6ec0796c5b4038eaf2128163d9d4a3f86a284dda.jpg\"><br><img src=\"paste-0c62d9fc652a83aa7634b7dd19ba03669a62a7b8.jpg\"><br><img src=\"paste-b1d140d3e9dec1d2d2df6cb28e6ebcb6239e0239.jpg\">"
+                    ],
+                    "guid": "Oh3z<PNQ@`",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Segment of Sight and Region of Sight",
+                        "<img src=\"paste-17340be8d0547c5ad9cf08dead804675e4283347.jpg\"><br><img src=\"paste-8355653ab1cf7d28ccf4d115e046c673bf521a03.jpg\">"
+                    ],
+                    "guid": "tox.6`#nG+",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How many regions of sight are there?",
+                        "<img src=\"paste-a61e9b9bceb46d43c110fbca61b9e4be3ff3ca34.jpg\"><br><img src=\"paste-a53eb234e02eb997703cb3bd81e48024dd1972e3.jpg\"><br><img src=\"paste-c9e549e55242b297759ef72c8a31e852b96d8483.jpg\"><br><img src=\"paste-c2851ffe6024d3732e883254b143cbdfc4b82e47.jpg\"><br><img src=\"paste-5339ce35d05d537625838cbc2cdf265089389100.jpg\"><br><img src=\"paste-58b08a65ce4bc2e39f7d4d5837c96b65803718a2.jpg\">"
+                    ],
+                    "guid": "L2R^(_A*q0",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Maximum angle of rotation",
+                        "<img src=\"paste-d7401feac9739738faddb6ca6c2126d718ed8930.jpg\">"
+                    ],
+                    "guid": "ge2@?rfmo:",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kernel",
+                        "<img src=\"paste-9f2710d7b32554a7cd3cd16cbb822b2d4b190d80.jpg\"><br><img src=\"paste-97951f0d3e58c1dcc6a7fa87c548799bbd1b92b6.jpg\"><br>"
+                    ],
+                    "guid": "hoET:>7A5W",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kernel as an intersection of half-planes",
+                        "<img src=\"paste-9e5077c15a62e75369ac76efd7fbb969361648ce.jpg\"><br><img src=\"paste-65e6c8849080331dc5d914e364ae8097aa018990.jpg\"><br><img src=\"paste-c692e71ea821c89f5454e044d5bf19a400f0d9ef.jpg\"><br><img src=\"paste-84554a6156e73931bfd7a126cdeea2f5d2bf4e8c.jpg\">"
+                    ],
+                    "guid": "H(.u.QABw5",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-essential edges",
+                        "<img src=\"paste-fab4e4815c95b89c290ffc1d88acdd3f2191c0f4.jpg\">"
+                    ],
+                    "guid": "n&a|_8hjj6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Maximum angle of rotation and the Kernel",
+                        "<img src=\"paste-70ddc56f1826a0e7ac2a352aea815615bb150d56.jpg\"><br><img src=\"paste-a9f4d3fe9166e122734cf090cad81a986b1df940.jpg\"><br><img src=\"paste-99dd5463bf7d634987f1dfad3a1f0b44d403698c.jpg\"><br><img src=\"paste-2c6f4c05ba6dd8cdc24b08e4acd0ef83fcb91fe7.jpg\"><br><img src=\"paste-bd92b9a8d58164ef5b8df75e8d2c349f7bdb0d1f.jpg\"><br><img src=\"paste-905c26a4e53e93a3113dff7f38c4e8d1e2c42932.jpg\"><br><img src=\"paste-a45a6df0254198afa9a18415f8520045cb17967a.jpg\"><br><img src=\"paste-6a724117c9cb1ae30b5abbe10d3c282bb59fda9e.jpg\">"
+                    ],
+                    "guid": "s$8<S8f:;+",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Line-of-sight",
+                        "<img src=\"paste-dbbca9de99541e087ee907cb3cd7b09a9de40a27.jpg\"><br><img src=\"paste-e49ee5f079269f218a92dbf8abbae308f4ed8487.jpg\"><br><img src=\"paste-058d60607ddef6b71a31b5c34534760992d85d71.jpg\">"
+                    ],
+                    "guid": "iPThZ~._{!",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-11"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Shortest path in a polygon",
+                        "<img src=\"paste-bae20974fc5e231731edfb3235c627f25b725cfa.jpg\"><br><img src=\"paste-af1b7e153728452c578c7f0f2fed0bb8f43fde41.jpg\"><br><img src=\"paste-1ccfb6388d6ceff4fecc1ab98bc478decbe8af30.jpg\"><br><img src=\"paste-ffde7d205c42b60f60d026e68fc0373016f5bcd3.jpg\">"
+                    ],
+                    "guid": "I>0O0h`47/",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Conic sections",
+                        "<img src=\"paste-9f34f99a1f6933065af9a331ddfa60796c7bfe8a.jpg\"><br><img src=\"paste-bf7c3584e5aaf1809d66c417b44ea3e02cae170d.jpg\"><br><img src=\"paste-3c547aed482d7b2b94a3248f8ca76c48ccc56f7d.jpg\"><br><img src=\"paste-7c0a3c331a434868dc104d79107373989e1769e0.jpg\"><br><img src=\"paste-c8538fdd16d51275c39287b635961790a28c3487.jpg\">"
+                    ],
+                    "guid": "h~E;aH+?]e",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Restricted Kernel Algorithm (CAB)",
+                        "<img src=\"paste-c51894eb7fe426c400d2d6e74799d3db0b05f417.jpg\"><br><img src=\"paste-5d1ef262a7265ed1e07c8a6ddb1554ef113a520f.jpg\"><br><img src=\"paste-1cda58882a2cb4023b3f64b207706537505b2a7f.jpg\"><br><img src=\"paste-6528e9f04fdd8b31992e90062f3d9ef557d9ddaa.jpg\"><br><img src=\"paste-9a5ecb035662a198781eea2bb22b41c2b4bf2ef1.jpg\"><br><img src=\"paste-c7415f027602c9743fe05c3e1b38aedf4a4e886a.jpg\"><br><img src=\"paste-7e714d250472c41466c27931e79aa77190016800.jpg\"><br><img src=\"paste-d36c6b132af976d09f829711b3de9b7d9a04ef58.jpg\"><br><img src=\"paste-e38aa05f6ad55de6fe98a3ca6d7e6fd88b6dae14.jpg\"><br><img src=\"paste-025604eff609d4db67db8d7529e7c694e8576f5a.jpg\"><br><img src=\"paste-1aa251545c9a1a65e6f4a597bb6ad3e34e43b6ff.jpg\"><br><img src=\"paste-759fa1d5f14afbe6e91109896a12cecef61759c4.jpg\"><br><img src=\"paste-92a7289ddbbe7e9e2d412e9742ed4bbce1a7b4bf.jpg\"><br><img src=\"paste-1627a9a6550be1920b9ec23027b2f581c636911b.jpg\"><br><img src=\"paste-34d491c3f5452cced3b7ae6d77739c6aaffbe8cb.jpg\"><br><img src=\"paste-1d3b8f7cb72245810e23c547092f3fd87a934b10.jpg\">"
+                    ],
+                    "guid": "bip`L|r68:",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bisector",
+                        "<img src=\"paste-91db29391e472e0da405833b9904565ea892b5c7.jpg\"><br><img src=\"paste-494647d559a031eaabd014092b1f340aed0e44dc.jpg\">"
+                    ],
+                    "guid": "wMQM,#wbx+",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Voronoi (region, diagram)",
+                        "<img src=\"paste-f8b4c61ecfb3fac0495ecd48fd046123ec049b45.jpg\"><br><img src=\"paste-16009674c618df1748791ad21d5e7d63ff54ee58.jpg\"><br><img src=\"paste-68b8369f56d95285950ac7e74ebcfd96b739bc60.jpg\"><br><img src=\"paste-a15b914fbf20165dd7121b86dd8b76a14c204766.jpg\">"
+                    ],
+                    "guid": "J2/n*|Ar~W",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Delaunay Decomposition",
+                        "<img src=\"paste-ca6fa0aacccd02d8612072d2689a7e4a371ceedb.jpg\"><br><img src=\"paste-94395968f95306eb4280d0511c440117599c3c9f.jpg\"><br><img src=\"paste-647da7d454ef96107e42939cf7e8b3920b16af2e.jpg\"><br><img src=\"paste-0aa76b781de428bedcc241f0550c91c547c1c280.jpg\">"
+                    ],
+                    "guid": "MsRdHSgzZj",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-14"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Delaunay) Triangulation and the largest sequence of angles",
+                        "<img src=\"paste-8b62436d56bb0148f4b1ca3235636f6a117102e1.jpg\"><br><img src=\"paste-140de016775f231bee7aeb7b5e3bf60bc15dcb15.jpg\"><br><img src=\"paste-1ab431e505f93d803366785eda3e140c0ea876c1.jpg\"><br><img src=\"paste-c4c99c397a5a52ad65ed236803fc2847921d9d1c.jpg\"><br><img src=\"paste-472eba71038417a94c4b3a8e49cf0f8dae3da047.jpg\">"
+                    ],
+                    "guid": "oBACfl=3PS",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-14"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fortune's Algorithm",
+                        "<img src=\"paste-ae68642e4d9f9fbf39d2ff12207b830f4610eadb.jpg\"><br><img src=\"paste-33f4bd0a0491b24d658921ec1b3ca2e6e8e88516.jpg\"><br><img src=\"paste-69f86349f1e5bd0f561d5f19122920e7a6e6f89c.jpg\"><br><img src=\"paste-4329c7d10186442fc1cad69605a6f4223a25730c.jpg\"><br><img src=\"paste-f931ec9f3ae477f0cb1d976c1c61e7ba0f150f2c.jpg\"><br><img src=\"paste-fac6673e55e3779757bf8995cef4b2d6b95c5a30.jpg\"><br><img src=\"paste-7d92af87385b29c31c009602360226373784614e.jpg\"><br><img src=\"paste-710628de89c67fbb56d9fecd1b3ea6c15950ba3d.jpg\"><br><img src=\"paste-9b51a8222c1aa536632632e2ff859446d1e4a87d.jpg\"><br><img src=\"paste-366928ad856a1bb60bf83a36139deb1b8873877a.jpg\">"
+                    ],
+                    "guid": "kRM#0OnGcX",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bisector of two line segments",
+                        "<img src=\"paste-61f53b2af164db3e06a85ffdc0c4b33a76f689b5.jpg\"><br><img src=\"paste-ae9c2615026981070b2d0ed699c64be860ad6c83.jpg\"><br><img src=\"paste-f9f64e2de0ff139cb8a83809d740b6e6d376997c.jpg\"><br><img src=\"paste-a2e6614251aef82f15afaf5f670a051d2b500535.jpg\">"
+                    ],
+                    "guid": "OmCBS-f=VH",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Generalized disc",
+                        "<img src=\"paste-22ef4561f3d445b119bcfdd51900d0502c909f26.jpg\"><br><img src=\"paste-6c2a586c932b04ce981b2e650fb4c1baf4b1fad0.jpg\">"
+                    ],
+                    "guid": "j#Oh@Ti:fr",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alpha hull",
+                        "<img src=\"paste-284254930aa6ba62124bff8249229c2cdd55867e.jpg\"><br><img src=\"paste-f4eebd23f1018246fb1b20d0eaf0e0503da35009.jpg\"><br><img src=\"paste-ab7651bc87f183c21eb3f5e719ad589491448ff2.jpg\"><br><img src=\"paste-254da8f580346f5c7603aba1cee2e01202d50d5d.jpg\"><br><img src=\"paste-87aa98e3482fa4474d894f4268fd29a763ff13aa.jpg\"><br><img src=\"paste-5ea1b0b23e6c1811bee38dae771cb3b1e9236510.jpg\"><br><img src=\"paste-1230c4f1b8dcf31185a80cb9703dcf1c6d97316b.jpg\">"
+                    ],
+                    "guid": "oTz_F#+T2f",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-16"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alpha shapes (+points, neighbours)",
+                        "<img src=\"paste-f5c1e99d7037edb7eb58ab79257192fc0ee97bf7.jpg\"><br><img src=\"paste-0e625d7d2d3f6ff35bec78d7a0383bf833fd01f3.jpg\"><br><img src=\"paste-ed488754f940f09baaf617d90843eab61a32b1ec.jpg\">"
+                    ],
+                    "guid": "x0:4dki{=(",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-16"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Positive / Negative edges, Interior / Exterior faces",
+                        "<img src=\"paste-4e0f5e593bba03d2019c9f76c338006fea89cb53.jpg\"><br><img src=\"paste-4ca65a8aaaa8668c29dd67b91631d5870c3b197c.jpg\"><br><img src=\"paste-4cfdf1c6006cba6a9956ee11971317e28b536913.jpg\">"
+                    ],
+                    "guid": "P4l]#Vk6a#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-16"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Isolated Points / Edges",
+                        "<img src=\"paste-c18ae24dac95861f1f4f5bde92a1d3b54118f711.jpg\"><br><img src=\"paste-6b1570d353e55d9d26d55adff3fd6217d704998a.jpg\">"
+                    ],
+                    "guid": "mTMYVNS,`x",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-17"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Topological skeleton",
+                        "<img src=\"paste-6496f8518c15832fc8c5e1ecb29dab89ee2e01dd.jpg\">"
+                    ],
+                    "guid": "O.Z~JIOaQh",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nearest neighbors",
+                        "<img src=\"paste-3d38d6e269f10fc8a63cc59bb0861640f6cc53e4.jpg\"><br><img src=\"paste-2519e6dcb8a0a5f232bed19b779f2501112740f8.jpg\">"
+                    ],
+                    "guid": "szoRwvS;2V",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Minimum) spanning tree",
+                        "<img src=\"paste-4599e352a2066045fc4851df50643b2c641a8a7a.jpg\"><br><img src=\"paste-890c6722a8d36433c2629da9918e300708758f41.jpg\">"
+                    ],
+                    "guid": "Gi9}Q*II&n",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Relative neighbourhood graph",
+                        "<img src=\"paste-5a20118d21dbc2b8b053f66c3de331a4e4d2e61f.jpg\">"
+                    ],
+                    "guid": "PG0W(b:X{`",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gabriel Graph",
+                        "<img src=\"paste-98bd2833752b67ae08c4dac08cec3d5072d97211.jpg\">"
+                    ],
+                    "guid": "PVG]ge;xbS",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nested subgraphs of the Delaunay Triangulation",
+                        "<img src=\"paste-107a0f79c13a950c8baa4be52e26356bd55f5e39.jpg\"><br><img src=\"paste-a254537ffed4bdded1b971c13a849348261e5cc7.jpg\"><br><img src=\"paste-be29e8280f22416484e1487e79462cc72e5999a5.jpg\">"
+                    ],
+                    "guid": "C@8vp{<}ls",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Circle/Lune-based graph neighbourhoods",
+                        "<img src=\"paste-abd3389b6d425fe921bb6b9d6a09f0e3a9fc170f.jpg\"><br><img src=\"paste-f830fd5fb78cedb3525070aec8533be93b7765e0.jpg\"><br><img src=\"paste-9a7beac8d9290fe48248143cf4b55dfd9f358903.jpg\"><br><img src=\"paste-2a5363b4f4df7ddd9be24d5e30a87fc9def6c4db.jpg\"><br><img src=\"paste-0376d5ea6acd0296ac7e1ec23d4c7f3fec5f77cc.jpg\">"
+                    ],
+                    "guid": "z<O4_hZp+@",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beta skeleton",
+                        "<img src=\"paste-28b89d630ee542358db6f5e68f164ee251f6eab7.jpg\"><br><img src=\"paste-70eba387f2b8d3028725329166126bce12cb63cb.jpg\"><br><img src=\"paste-354e7b00248405292314266d38f143b773fae2b3.jpg\">"
+                    ],
+                    "guid": "DV#>c=G?`n",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beta skeleton stability",
+                        "<img src=\"paste-a1ec595ddcecc4637d441a01128e8b61fe154982.jpg\">"
+                    ],
+                    "guid": "E{AFsRf4I{",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Scalar / vector / tensor field",
+                        "<img src=\"paste-7dec6658b5473fb01f39823085d8e3bfd7cc364f.jpg\">"
+                    ],
+                    "guid": "MSf}U*:EEB",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Isolines / isosurfaces",
+                        "<img src=\"paste-088742eaf990a9a0df0c42a8e1d89d3727149b3b.jpg\">"
+                    ],
+                    "guid": "GAWJby][`m",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marching Squares",
+                        "<img src=\"paste-c3216dd36662e138d61c925c5959b0436736c8ec.jpg\"><br><img src=\"paste-faf7d42fe6c9e696ffbc1d9eea5c95d121a663a0.jpg\"><br><img src=\"paste-25f409ce8f890d05651ce9d15563508b5228122d.jpg\"><br><img src=\"paste-5cd4f6f9e742d6a6a9adb905e6478ff1a8d5a695.jpg\"><br><img src=\"paste-f19a1f86d501b464dbcb1c6eb002492d47ffe998.jpg\"><br><img src=\"paste-866a94da6ecc00d17b6a3363859b0528e398ebe1.jpg\"><br><img src=\"paste-7a11f184738bc9d1d623da2c24882a5bb643aa14.jpg\"><br><img src=\"paste-4c0d9635e5bba988e1dd6c13d4fa184954072307.jpg\">"
+                    ],
+                    "guid": "va>K2vlNT>",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DICONEX",
+                        "<img src=\"paste-48564d60ad9077e4513280b6e9a33e3361b59dba.jpg\"><br><img src=\"paste-159ac7a06179aa90f4a3569b3a04f6a53fb76b12.jpg\"><br><img src=\"paste-95f5cb9a37ce6d417864bcfe1558fdf91e11ba09.jpg\"><br><img src=\"paste-8ae97ac150186f327ccdef4ff74660a82de36781.jpg\"><br><img src=\"paste-bd5f9c095fa7741f8b14203879a312eca983b469.jpg\"><br><img src=\"paste-a32b301216356ad224ead92488445014937768e8.jpg\"><br><img src=\"paste-ad5765ec41ce019c2de014706ca5a5c4d33768a1.jpg\"><br><img src=\"paste-2e74d17de6b0ab13a97579b5a352346ee5d0a4ce.jpg\"><br><img src=\"paste-7c526fcf5f4b0304ba65b0ac8516aedf22a47f39.jpg\"><br><img src=\"paste-921f3727ba73cf25fcab179c1b97ad92913bffee.jpg\"><br><img src=\"paste-e0734dbb49ec8855068e22901a2c177a8ca905c3.jpg\"><br><img src=\"paste-9afce64bdd6acb71cfdced6230ac0b71b7cb89b0.jpg\">"
+                    ],
+                    "guid": "Qa2e,or)NA",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marching Cubes",
+                        "<img src=\"paste-9907f52e0b5b9979cfd8c3ee7ab4d1152820053a.jpg\"><br><img src=\"paste-ef871d9d09f90aff87510002b06ebff051b84912.jpg\"><br><img src=\"paste-c9af1ecb3f94eb3249c78b21b5409300cc8f48f7.jpg\">"
+                    ],
+                    "guid": "L=T,GhZD}!",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "VESTA",
+                        "<img src=\"paste-85a23b6b894c3579aefc18bef8cb63eba271fc4b.jpg\"><br><img src=\"paste-e296b61eb429f4a65dbf0cc24a21842ba332c051.jpg\"><br><img src=\"paste-c9512c83f2fc639152754e0569f63e376fdaa3c3.jpg\"><br><img src=\"paste-299c67c21a690392c1ee7786071a6bfffa965da6.jpg\"><br><img src=\"paste-7573a2db84a78fa83921fa11e01df42f654c2538.jpg\"><br><img src=\"paste-8b708dde28374c741454646cbc3d0307392401c0.jpg\"><br><img src=\"paste-b3463866c769c30aa63ed24fecd5be2e111b8f6e.jpg\"><br><img src=\"paste-ec414049faf61dbf5304c35da702de447e4222fd.jpg\"><br><img src=\"paste-8d609d1ee557cb0b21037e53f0f6208659be4409.jpg\"><br><img src=\"paste-7833cba4ff3595a326918aa9e184749f79860886.jpg\"><br><img src=\"paste-5242f226dcc22bddfa82951728736a4f1e4a77c8.jpg\"><br><img src=\"paste-bc5d56146bc021fb33c1c863e9df7ed79fabf967.jpg\"><br><img src=\"paste-1f33f40c8127b5f523c7007ab52ca273002a3b26.jpg\"><br><img src=\"paste-626d8fab0af827c7069e0361af149549fd3062bd.jpg\"><br><img src=\"paste-acf3141bd9477002a408cab4386f3180615a6ba6.jpg\"><br><img src=\"paste-f716d458a78b78407fd81ba0003cf1b93700fd70.jpg\"><br><img src=\"paste-22bdedd94ffd065909ba5bcad90b04deb4322a0c.jpg\"><br><img src=\"paste-003019f48a645b0dc1a8aa41c0685da6a200827b.jpg\">"
+                    ],
+                    "guid": "bd6uf[`:a+",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-20"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lower Envelope Algorithm for various functions",
+                        "<img src=\"paste-5dec831c56865ed1effcda6cfa6e39703d77d90b.jpg\"><br><img src=\"paste-3814d999a5ae0318b914c8fe842103cbe1363cfc.jpg\"><br><img src=\"paste-94872ffcf3a05ccaef9f0d6ee2e37cf825f48b29.jpg\"><br><img src=\"paste-ec93922aae345a4356c7d75ce47f03f56245e634.jpg\"><br><img src=\"paste-2e1ed02871d9cef838f3732033dcdd0cae061479.jpg\"><br><img src=\"paste-15ec09aec810027d870a5638fc416a59705f97ed.jpg\"><br><img src=\"paste-9a9217cca09245013ec6d508f75f59f220e6800f.jpg\"><br><img src=\"paste-c41bc5e521bcb869a4dfadf18b18f0ff6780ba6d.jpg\"><br><img src=\"paste-3b1e231d11f0d0c3774aef7eed44b590e20d28c2.jpg\"><br><img src=\"paste-8c8a5cf28450dcba368496c7ca10a5990bd7887f.jpg\"><br><img src=\"paste-699f49a259825de01173cb04ca04cde0922070e7.jpg\"><br><img src=\"paste-63e0f963d60c185c0ecc5dd4992a3b9276e98b55.jpg\">"
+                    ],
+                    "guid": "uaKIFSQy~E",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DICONEX vs VESTA",
+                        "<img src=\"paste-bb1208737c384910356af39058a86a6c202384e3.jpg\"><br><img src=\"paste-cb03380a3bfccb2e3bbe99766d680ff2e9e59884.jpg\"><br><img src=\"paste-0f58ed329e7d7869cd6f4efe08d613fc3211c609.jpg\"><br><img src=\"paste-4d0cdf473b1547fac73be243690dedb138382983.jpg\"><br><img src=\"paste-135f87383e70cf6c4eeb9bcb0edc4d9af855f836.jpg\">"
+                    ],
+                    "guid": "t=.,uta?L",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-21"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(Degenerate/Non-degenerate) Critical Points",
+                        "<img src=\"paste-8ace17f2687fc89773c412bd4fc889d2cc242c16.jpg\"><br><img src=\"paste-b74dfc4bce5a852eaedcb767cb8c29869041f31b.jpg\"><br><img src=\"paste-83f5d0aadc5a43f524233e07be69beb2ae7c0a46.jpg\"><br><img src=\"paste-5b0e21425668a7d949ba58f2dcbd113abccea9a3.jpg\">"
+                    ],
+                    "guid": "kN*`-$/eu8",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-21"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Morse Lemma",
+                        "<img src=\"paste-d7254b812e2bcd3f2bc1ca229ce15bb2d0a3928c.jpg\"><br><img src=\"paste-0ee2cbf90fcd4190587b780f965350332064b651.jpg\"><br><img src=\"paste-874f9c7bfbce102095f87af21f5c18eff9748fb8.jpg\"><br><img src=\"paste-4f6150358da9f05bfd0a8a945334bda1d4f623b0.jpg\">"
+                    ],
+                    "guid": "JQ[YKP8LKM",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Morse Function",
+                        "<img src=\"paste-c12f29ba272cabe9f2f9ebf7670e3d0c9887a890.jpg\"><br><img src=\"paste-c7f8dbde92f42db627409b6df611624f5380ab25.jpg\"><br><img src=\"paste-838c7eea1b774eed2e8a6bf29a82ca841f03df1f.jpg\"><br><img src=\"paste-16c4505b4516d87a326e7cc7162e39fdcd8f34ef.jpg\"><br><img src=\"paste-0c0615c3ec44f42fe5cb5abb1175a7f68f6051b3.jpg\"><br><img src=\"paste-c982e3a864a053cb5dd580030ca80be76322050d.jpg\"><br><img src=\"paste-0fe72d0f1a48ac74f76b325cdd8cb2f09797873e.jpg\"><br><img src=\"paste-3aca633681d100796b3e9c1f80992d67fc2037a2.jpg\"><br><img src=\"paste-4c8a90e440449178c44d9957abe68ab93d7af581.jpg\"><br><img src=\"paste-f07859c0a8c274b2125bceb389f5a7236538e4a1.jpg\">"
+                    ],
+                    "guid": "Jp?{;T`olw",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Simplicial Complexes and Cells",
+                        "<img src=\"paste-807f535d81f46d2bc4be19066e183d30fe563462.jpg\"><br><img src=\"paste-2dbd3781419dd5bd5bbbd434d4e8b9a4b2d8a72a.jpg\"><br><img src=\"paste-be917143b4ad1cf39145f2f840bd77322962b352.jpg\">"
+                    ],
+                    "guid": "iIMuxMVZ/}",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Discrete Manifolds with(out) Boundary",
+                        "<img src=\"paste-4c1c2667efb3fb11a6124b872cbb4693db70b0e0.jpg\"><br><img src=\"paste-8323deca8ca5f9e7966432170b62a19f89f76f57.jpg\">"
+                    ],
+                    "guid": "KWN+GV|T*$",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face/coface",
+                        "<img src=\"paste-eff590b2efb71b24a6a5d3a87f2d4c23985d3631.jpg\"><br><img src=\"paste-2b5c4605217dcd3beab26aab2bae47b60e2a810f.jpg\"><br><img src=\"paste-e03ca267077410d5baa73b29ebda16ac38b9bcbb.jpg\">"
+                    ],
+                    "guid": "KlbjS[2f3#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Discrete Morse function",
+                        "<img src=\"paste-0638b2d2ce0db7f19ab45a2a1b344c5a3bdbac93.jpg\"><br><img src=\"paste-26158277d766323652fc62ce1e2877521e84c446.jpg\"><br><img src=\"paste-9a51744ff2ecb2aefced4608e4d5d1f60e50b647.jpg\"><br><img src=\"paste-171e1827fc6960fb7780d865cf73394f271a37cc.jpg\">"
+                    ],
+                    "guid": "Oe$KJyce2z",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Critical cells",
+                        "<img src=\"paste-b37c65065a41e354d907161e3e433528f2e0ecb1.jpg\"><br><img src=\"paste-bea22e4b0200f49c534ecc81de33136929a14b90.jpg\"><br><img src=\"paste-1cea22fa99ff5bd106bf169eac0105c436fbb83b.jpg\">"
+                    ],
+                    "guid": "D.W2iMLklS",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Continuous vs Discrete Morse theory examples",
+                        "<img src=\"paste-f03fd345be44e173101e31f264de9d86d0c4ae6f.jpg\"><br><img src=\"paste-ecc719fad70fa07159acd2df383b8cc3db222466.jpg\"><br><img src=\"paste-1693adea64ca7fa2ce65a3a349ee734c2e5cbd72.jpg\"><br><img src=\"paste-13d5719460ac137a78719ee51f3ac155dd7c0611.jpg\"><br><img src=\"paste-5b4ebd90dd9a15fbf257b3378615f8bc444d3564.jpg\">"
+                    ],
+                    "guid": "d&EK^0.,N`",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epsilon-closeness",
+                        "<img src=\"paste-07e7c18046b03b4dbe1d66bb840396e74e3e8275.jpg\"><br><img src=\"paste-0a811254dc653c2475760a50d17cce6fca7c3af6.jpg\"><br><img src=\"paste-500c8f51234897dcbaa1c8ccb7aeece70a182151.jpg\"><br><img src=\"paste-0a94ff40a16c24e4be652bc6ebbb5384393851b0.jpg\"><br><img src=\"paste-ca0b464aa2ada6767193f7314ece9edd0f5736b7.jpg\">"
+                    ],
+                    "guid": "O%(s^R?kSm",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lower envelope for line segments",
+                        "<img src=\"paste-3777b08d5488b8572cdb0df27e391cc018dcddb1.jpg\"><br><img src=\"paste-c0e312ebd6f47ee0437119f48165ade5fd4b53a0.jpg\">"
+                    ],
+                    "guid": "D`2T7:?5aE",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Circle vs. Lune",
+                        "<img src=\"paste-bf41be51df86f387ccfaec80a02b4452088476a0.jpg\">"
+                    ],
+                    "guid": "p]zG`i`;aj",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "lecture-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "cf2367d6-b03e-11ed-b9af-88d7f63eab01",
             "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
             "desc": "",
@@ -1398,7 +2895,7 @@
                     "plainText": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "collapsed": false,
